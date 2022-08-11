@@ -69,3 +69,12 @@ header .first-menu nav > ul .name-category {
     margin-top: 15px;
     letter-spacing: 0.1rem;
 }
+
+header .first-menu > nav > ul li::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 3px;
+    margin-top: 10px;
+    background: #000;
+}
