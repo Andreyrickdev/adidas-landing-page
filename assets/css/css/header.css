@@ -97,3 +97,7 @@ header .first-menu .category > li {
     text-transform: uppercase;
     font-size: 1rem;
 }
+
+header .first-menu .userAssetsAndSearch {
+    display: flex;
+}
