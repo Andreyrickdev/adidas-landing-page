@@ -27,3 +27,11 @@ header .extra-inf {
     position: relative;
     height: 16px;
 }
+
+header .extra-inf nav ul {
+    display: flex;
+    gap: 10px;
+    position: absolute;
+    right: 0;
+    padding-right: 40px;
+}
