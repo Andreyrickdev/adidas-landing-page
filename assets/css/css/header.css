@@ -78,3 +78,8 @@ header .first-menu > nav > ul li::after {
     margin-top: 10px;
     background: #000;
 }
+
+header .first-menu > nav > ul li:hover::after {
+    width: 100%;
+    transition: 0.4s;
+}
