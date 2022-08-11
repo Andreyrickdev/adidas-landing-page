@@ -117,3 +117,7 @@ header .first-menu .search .buttonSearch {
     display: flex;
     align-items: center;
 }
+
+header .first-menu .search > input {
+    display: inline-block;
+}
