@@ -13,9 +13,370 @@
     
     <body>
 
-        <header>
-            <img src="./assets/imgs/Adidas_isologo.svg.svg" width="60" height="60" alt="adidas-logo">
-        </header>
+            <header>
+
+                <section class="offer">
+
+                    <h3>Vem conferir a lista de produtos que separamos com até 20% OFF, pra você garantir o presente do seu pai.</h3>
+
+                </section>
+
+                <section class="extra-inf">
+
+                    <nav>
+
+                        <ul>
+                            <li>ajuda</li>
+                            <li>trocas e devoluções</li>
+                            <li>status do pedido</li>
+                            <li>entre para o clube</li>
+                        </ul>
+
+                    </nav>
+
+                </section>
+
+                <article class="first-menu">
+
+                    <div class="icons-left">
+                        <li class="hamburger-li"><span></span></li><!--put in active-->
+                        <li class="favorite-left"><img src="./assets/imgs/heart.svg" alt="heart" width="25" height="25"></li>
+                    </div>
+
+                    <img class="logo" src="./assets/imgs/Adidas_isologo.svg.svg" width="80" height="80" alt="adidas-logo">
+
+                    <nav class="nav">
+                        <ul class="menu category">
+                            <li class="name-category thisBold">Mulher</li>
+                            <li class="name-category thisBold">Homem</li>
+                            <li class="name-category thisBold">Infantil</li>
+                            <li class="name-category">Esportes</li>
+                            <li class="name-category">Marcas</li>
+                            <li class="name-category">Coleções</li>
+                        </ul>
+                    </nav>
+
+
+
+                    <div class="userAssetsAndSearch">
+
+                        <section class="search">
+                            
+                            <input class="searching" type="search" placeholder="Procurar">
+
+                            <div class="buttonSearch">
+                                <img src="./assets/imgs/search.svg" class="" alt="search" width="25" height="25">
+                            </div>
+
+                        </section>
+
+                        <nav class="assets">
+
+                            <ul class="menu">
+
+                                <li class="user-li"><img src="./assets/imgs/user.svg" alt="user" width="25" height="25"></li>
+                                <li class="heart-li"><img src="./assets/imgs/heart.svg" alt="heart" width="25" height="25"></li>
+                                <li class="shopping-li"><img src="./assets/imgs/shopping.svg" alt="shopping" width="25" height="25"></li>
+                            </ul>
+
+                        </nav>
+
+                        
+                    </div>
+                    
+                </article>
+
+
+                <nav class="nav nav-mobile">
+                    <ul class="menu category">
+                        <li class="name-category thisBold"> <p>Mulher</p> <img class="angle-right" width="16" height="16" src="./assets/imgs/angle-right-solid.svg"></li>
+                        <li class="name-category thisBold">Homem <img class="angle-right" width="16" height="16" src="./assets/imgs/angle-right-solid.svg"></li>
+                        <li class="name-category thisBold">Infantil <img class="angle-right" width="16" height="16" src="./assets/imgs/angle-right-solid.svg"></li>
+                        <li class="name-category">Esportes <img class="angle-right" width="16" height="16" src="./assets/imgs/angle-right-solid.svg"></li>
+                        <li class="name-category">Marcas <img class="angle-right" width="16" height="16" src="./assets/imgs/angle-right-solid.svg"></li>
+                        <li class="name-category">Coleções <img class="angle-right" width="16" height="16" src="./assets/imgs/angle-right-solid.svg"></li>
+                    </ul>
+                </nav>
+
+                <form action class="search-form">
+                    <input class="searching search-mobile" type="search" placeholder="Procurar">
+                </form>
+                
+                <form action class="login-form">
+                    <div class="close"></div>
+                    <h1>Faça o login e aproveite todos os benefícios do Adiclub</h1>
+
+                    <ul class="benefits-ul">
+                        <li><p class="benefits">Libere <span>cupons de desconto</span></p></li>
+                        <li><p class="benefits">Tenha acesso a <span>produtos exclusivos</span></p></li>
+                    </ul>
+
+                    <h2>Faça o login</h2>
+                    <p>Vamos verificar se você já tem uma conta</p>
+
+                    <section class="account">
+                        <input type="email" placeholder="" class="box" id="login-register">
+                        <label for="login-register" class="">E-mail *</label>
+                    </section>
+
+                    <section class="terms">
+                        <input type="checkbox" id="areYouAgree">
+                        <label for="areYouAgree">Mantenha-me conectado - válido para todos os métodos de log-in abaixo. <span>Mais informações.</span></label>
+                    </section>
+
+                    <button class="button-submit" type="submit" aria-label="Continuar">Continuar 
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+                        </svg>
+                    </button>
+
+                    <ul class="social">
+
+                        <li aria-label="Facebook"><img width="24" height="24" src="./assets/imgs/facebook.svg"></li>
+                        <li aria-label="Google"><img width="24" height="24" src="./assets/imgs/google.svg"></li>
+
+                    </ul>
+                </form>
+
+                <form action class="favorite-form">
+                    <div class="close"></div>
+                    <h1>Minha lista de desejos</h1>
+                    
+                    <section style="display: none;">
+                        <p><span>0</span> itens</p>
+                        <p>Você ainda não salvou nenhum item na sua lista de desejos. Comece a comprar e adicione os seus produtos favoritos à sua lista de desejos.</p>
+                    </section>
+
+                    <section class="favorite-items">
+                        <p><span>1</span> <span>item</span></p>
+
+                        <section class="wishlist">
+                            <nav>
+                                <ul>
+                                    <li>
+                                        <img width="20" height="20" class="unfavorite" src="./assets/imgs/heart.svg">
+                                        <img height="150" width="150px" src="./assets/imgs/tênis ultraboost preto/part1.png">
+                                        <p>R$1.199,99</p>
+                                        <p>Tênis ultraboost 22</p>
+                                    </li>
+
+                                    <li>
+                                        <img width="20" height="20" class="unfavorite" src="./assets/imgs/heart.svg">
+                                        <img height="150" width="150" src="./assets/imgs/tênis ultraboost laranja/part1.png">
+                                        <p>R$1.199,99</p>
+                                        <p>Tênis ultraboost 22</p>
+                                    </li>
+
+                                    <li>
+                                        <img width="20" height="20" class="unfavorite" src="./assets/imgs/heart.svg">
+                                        <img height="150" width="150px" src="./assets/imgs/tênis ultraboost roxo/part1.png">
+                                        <p>R$1.199,99</p>
+                                        <p>Tênis ultraboost 22</p>
+                                    </li>
+
+                                </ul>
+                            </nav>
+
+                            <section class="inf">
+                                <h2>Não perca a sua lista de desejos</h2>
+                                <p>Entre para o clube hoje e receba um cupom de 15% de desconto no primeiro pedido. Ou então, faça o login e salve o item para que ele não seja perdido.</p>
+                                
+                                <button class="button-submit" type="submit" aria-label="Continuar">Cadastrar 
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+                                    </svg>
+                                </button>
+
+                                <p>Já é membro do adiClub?</p>
+                                <p>Identifique-se</p>
+                            </section>
+
+                        </section>
+
+                    </section>
+                </form>
+
+                <form class="shopping-form">
+                    <div class="close"></div>
+                    <h1>Seu carrinho</h1>
+
+                    <section class="item">
+                        <section>
+                            <img width="200" height="200" src="./assets/imgs/tênis ultraboost preto/part1.png">
+                        </section>
+
+                        <nav class="info-item">
+                            <section>
+                                <section class="nameAndValue">
+                                    <span>Tênis ultraboost 22</span>
+                                    <span>R$1.199,99</span>
+                                </section>
+                                <p>CORE BLACK / TURBO / FLASH ORANGE</p>
+                                <br>
+                                <p>TAMANHO: 39</p>
+                            </section>
+
+                            <section class="icons">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                                    <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+                                </svg>
+
+                                <img width="16" height="16" src="./assets/imgs/heart.svg">
+                            </section>
+
+                            <nav class="item-quantity">
+                                <select name="select">
+                                    <option value="valor1">Remover</option>
+                                    <option selected value="valor1">1</option>
+                                    <option value="valor1">2</option>
+                                    <option value="valor1">3</option>
+                                    <option value="valor1">4</option>
+                                    <option value="valor1">5</option>
+                                    <option value="valor1">6</option>
+                                    <option value="valor1">7</option>
+                                    <option value="valor1">8</option>
+                                    <option value="valor1">9</option>
+                                    <option value="valor1">10</option>
+                                </select>
+                            </nav>
+                        </nav>
+
+                    </section>
+
+                    <section class="item">
+                        <section>
+                            <img width="200" height="200" src="./assets/imgs/tênis ultraboost laranja/part1.png">
+                        </section>
+
+                        <nav class="info-item">
+                            <section>
+                                <section class="nameAndValue">
+                                    <span>Tênis ultraboost 22</span>
+                                    <span>R$1.199,99</span>
+                                </section>
+                                <p>CORE BLACK / TURBO / FLASH ORANGE</p>
+                                <br>
+                                <p>TAMANHO: 39</p>
+                            </section>
+
+                            <section class="icons">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                                    <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+                                </svg>
+
+                                <img width="16" height="16" src="./assets/imgs/heart.svg">
+                            </section>
+
+                            <nav class="item-quantity">
+                                <select name="select">
+                                    <option value="valor1">Remover</option>
+                                    <option selected value="valor1">1</option>
+                                    <option value="valor1">2</option>
+                                    <option value="valor1">3</option>
+                                    <option value="valor1">4</option>
+                                    <option value="valor1">5</option>
+                                    <option value="valor1">6</option>
+                                    <option value="valor1">7</option>
+                                    <option value="valor1">8</option>
+                                    <option value="valor1">9</option>
+                                    <option value="valor1">10</option>
+                                </select>
+                            </nav>
+                        </nav>
+
+                    </section>
+                    
+                    <section class="item">
+                        <section>
+                            <img width="200" height="200" src="./assets/imgs/tênis ultraboost roxo/part1.png">
+                        </section>
+
+                        <nav class="info-item">
+                            <section>
+                                <section class="nameAndValue">
+                                    <span>Tênis ultraboost 22</span>
+                                    <span>R$1.199,99</span>
+                                </section>
+                                <p>CORE BLACK / TURBO / FLASH ORANGE</p>
+                                <br>
+                                <p>TAMANHO: 39</p>
+                            </section>
+
+                            <section class="icons">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                                    <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+                                </svg>
+
+                                <img width="16" height="16" src="./assets/imgs/heart.svg">
+                            </section>
+
+                            <nav class="item-quantity">
+                                <select name="select">
+                                    <option value="valor1">Remover</option>
+                                    <option selected value="valor1">1</option>
+                                    <option value="valor1">2</option>
+                                    <option value="valor1">3</option>
+                                    <option value="valor1">4</option>
+                                    <option value="valor1">5</option>
+                                    <option value="valor1">6</option>
+                                    <option value="valor1">7</option>
+                                    <option value="valor1">8</option>
+                                    <option value="valor1">9</option>
+                                    <option value="valor1">10</option>
+                                </select>
+                            </nav>
+                        </nav>
+
+                    </section>
+
+                    <section class="total">
+                        <p>TOTAL (<span>0</span> produtos)</p>
+                        <p>R$<span>0</span></p>
+                    </section>
+
+                    <button class="button-submit" type="submit" aria-label="Continuar">Finalizar compra 
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+                        </svg>
+                    </button>
+
+                </form>
+                
+                </div>
+
+            </header>
+
+
+
+            <main>
+                <article class="main-background">
+
+                    <section class="inf-product">
+                        <h1>TÊNIS ULTRABOOST 22</h1>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                        <button class="readMore" src="#readMore">Leia mais <img alt="" width="20" src="./assets/imgs/arrow-down.svg"></button>
+                    </section>
+
+                    <section class="buttonsOfSneakers">
+                        <button class="btn buttonOrange" src=""></button>
+                        <button class="btn buttonBlack" src=""></button>
+                        <button class="btn buttonPurple" src=""></button>
+                    </section>
+
+                    <section class="sneakers">
+                        <img width="520" class="Blacksneakers" src="./assets/imgs/tênis ultraboost preto/parte da arte.png">
+
+                        <div class="two-sneakers black">
+                            <img class="back-sneaker" width="100" src="./assets/imgs/tênis ultraboost preto/part11.png">
+                            <img class="front-sneaker" width="92" src="./assets/imgs/tênis ultraboost preto/part10.png">
+                        </div>
+                        
+                        <div class="circle"></div>
+                    </section>
+
+                </article>
+            </main>
+        
 
         
 
@@ -24,7 +385,9 @@
         
         
         <script src="https://kit.fontawesome.com/ce6f89a600.js" crossorigin="anonymous"></script>
-        <script src="./assets/js/script.js"></script>
+        <script src="./assets/js/openAndClose.js"></script>
+        <script src="./assets/js/myInput.js"></script>
+        <script src="./assets/js/animationButton.js"></script>
     </body>
 
 </html>
