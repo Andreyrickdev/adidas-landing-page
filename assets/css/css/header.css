@@ -35,3 +35,9 @@ header .extra-inf nav ul {
     right: 0;
     padding-right: 40px;
 }
+
+header .extra-inf nav ul li {
+    font-size: 0.8125rem;
+    cursor: pointer;
+    padding: 5px;
+}
