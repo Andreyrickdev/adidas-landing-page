@@ -53,3 +53,7 @@ header .first-menu {
 header .first-menu .icons-left {
     display: none;
 }
+
+header .first-menu .logo {
+    cursor: pointer;
+}
