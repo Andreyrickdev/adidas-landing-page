@@ -112,3 +112,9 @@ header .first-menu .search {
     position: absolute;
     right: 210px;
 }
+
+header .first-menu .search .buttonSearch {
+    /*padding: 17px 18px;*/
+    display: flex;
+    align-items: center;
+}
