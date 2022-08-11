@@ -22,3 +22,8 @@ header > .offer h3 {
 header > .offer h3:hover {
     text-decoration: underline;
 }
+
+header .extra-inf {
+    position: relative;
+    height: 16px;
+}
