@@ -57,3 +57,7 @@ header .first-menu .icons-left {
 header .first-menu .logo {
     cursor: pointer;
 }
+
+header .first-menu .menu {
+    display: flex;
+}
