@@ -49,3 +49,7 @@ header .first-menu {
     padding: 0px 40px;
     position: relative;
 }
+
+header .first-menu .icons-left {
+    display: none;
+}
