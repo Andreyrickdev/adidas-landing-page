@@ -83,3 +83,8 @@ header .first-menu > nav > ul li:hover::after {
     width: 100%;
     transition: 0.4s;
 }
+
+header .first-menu nav > ul .thisBold {
+    font-weight: bold;
+}
+
