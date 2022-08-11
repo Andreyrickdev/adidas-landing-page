@@ -101,3 +101,14 @@ header .first-menu .category > li {
 header .first-menu .userAssetsAndSearch {
     display: flex;
 }
+
+header .first-menu .search {
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 2px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    position: absolute;
+    right: 210px;
+}
