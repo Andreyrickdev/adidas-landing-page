@@ -88,3 +88,7 @@ header .first-menu nav > ul .thisBold {
     font-weight: bold;
 }
 
+header .first-menu .category {
+    display: flex;
+    align-items: center;
+}
