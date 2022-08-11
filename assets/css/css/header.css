@@ -114,7 +114,6 @@ header .first-menu .search {
 }
 
 header .first-menu .search .buttonSearch {
-    /*padding: 17px 18px;*/
     display: flex;
     align-items: center;
 }
