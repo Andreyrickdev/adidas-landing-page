@@ -61,3 +61,11 @@ header .first-menu .logo {
 header .first-menu .menu {
     display: flex;
 }
+
+header .first-menu nav > ul .name-category {
+    font-size:.9rem;
+    padding: 0px 10px;
+    cursor: pointer;
+    margin-top: 15px;
+    letter-spacing: 0.1rem;
+}
