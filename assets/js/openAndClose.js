@@ -16,9 +16,7 @@ function openOrClose() {
 
 
     hamburgButton.addEventListener('click', () => {
-
-
-        
+        menu.classList.toggle('active');
     });
 }
 
