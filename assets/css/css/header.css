@@ -634,4 +634,9 @@ header .shopping-form .item .info-item .item-quantity select {
         padding: 17px 18px;
     }
 
+    header .first-menu .icons-left {
+        grid-column: 0;
+        justify-content: flex-start;
+    }
+
 }
