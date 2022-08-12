@@ -621,4 +621,13 @@ header .shopping-form .item .info-item .item-quantity select {
         height: 60px;
     }
 
+    header .first-menu .userAssetsAndSearch {
+        position: relative;
+        right: 0px;
+        display: flex;
+        justify-content: flex-end;
+        flex-direction: row;
+        flex: 1;
+    }
+
 }
