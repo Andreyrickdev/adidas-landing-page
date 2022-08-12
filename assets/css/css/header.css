@@ -363,3 +363,8 @@ header .favorite-form.active {
     top: 160px;
 }
 
+header .favorite-form .wishlist {
+    display: grid;
+    position: relative;
+}
+
