@@ -702,4 +702,8 @@ header .shopping-form .item .info-item .item-quantity select {
         font-size: 1rem;
     }
 
+    header .nav.active .category {
+        left: 0rem;
+    }
+
 }
