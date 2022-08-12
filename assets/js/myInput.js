@@ -14,5 +14,7 @@ label.addEventListener('click', function () {
 
 document.addEventListener('mouseup', function(e) {
 
-    
+    if(!label.contains(e.target) && input.value == false) {
+        
+    }
 });
