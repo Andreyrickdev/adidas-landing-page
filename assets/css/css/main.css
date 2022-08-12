@@ -121,4 +121,11 @@ main .main-background .sneakers .circle {
         padding: 15px;
     }
 
+    main .main-background .sneakers .Blacksneakers {
+        width: 400px;
+        transform: translateY(-80px) rotate(90deg);
+        right: -100px;
+        bottom: 30px;
+    }
+
 }
