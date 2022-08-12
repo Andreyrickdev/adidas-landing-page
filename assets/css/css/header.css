@@ -852,3 +852,8 @@ header .shopping-form .item .info-item .item-quantity select {
         width: 12%;
     }
 }
+
+@media (max-width: 390px) {
+
+    
+}
