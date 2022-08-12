@@ -9,5 +9,5 @@ account.addEventListener('click', function () {
 
 label.addEventListener('click', function () {
 
-    
+    label.classList.add('active');
 });
