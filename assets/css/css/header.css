@@ -174,3 +174,7 @@ header .close.active {
 header .close span {
     display: grid;
 }
+
+header .close span svg {
+    place-self: center;
+}
