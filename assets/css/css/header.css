@@ -863,4 +863,8 @@ header .shopping-form .item .info-item .item-quantity select {
         display: none;
     }
 
+    header .favorite-form .close {
+        display: none;
+    }
+
 }
