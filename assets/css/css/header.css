@@ -553,3 +553,7 @@ header .shopping-form .item .info-item .icons {
 header .shopping-form .item .info-item .icons img, header .shopping-form .item .info-item .icons svg {
     cursor: pointer;
 }
+
+header .shopping-form .item .info-item .item-quantity {
+    grid-column: 1/-1;
+}
