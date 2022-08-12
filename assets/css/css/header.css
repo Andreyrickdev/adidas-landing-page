@@ -646,4 +646,9 @@ header .shopping-form .item .info-item .item-quantity select {
         cursor: pointer;
     }
 
+    header .first-menu .icons-left li span {
+        border-top: 3px solid #000;
+        width: 30px;
+    }
+
 }
