@@ -526,3 +526,7 @@ header .shopping-form .item {
     margin-bottom: 40px;
     place-self: center;
 }
+
+header .shopping-form .item section {
+    width: 100%;
+}
