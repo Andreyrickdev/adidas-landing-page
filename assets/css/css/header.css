@@ -575,6 +575,12 @@ header .shopping-form .item .info-item .item-quantity select {
         font-size: 0.75rem;
     }
 
+    header .first-menu .userAssetsAndSearch {
+        position: absolute;
+        right: 40px;
+        align-items: center;
+    }
+
 
 
 }
