@@ -1,0 +1,1 @@
+const hamburgButton = document.getElementsByClassName('hamburger-li')[0];
