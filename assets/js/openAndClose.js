@@ -25,7 +25,7 @@ function openOrClose() {
     });
 
     searchButton.addEventListener('click', () => {
-        
+        search.classList.toggle('active');
     });
 }
 
