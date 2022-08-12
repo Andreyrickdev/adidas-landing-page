@@ -774,6 +774,9 @@ header .shopping-form .item .info-item .item-quantity select {
     header .first-menu .userAssetsAndSearch .assets .menu .heart-li {
         display: none;
     }
- 
+
+    header .favorite-form {
+        left: 0;
+    }
 
 }
