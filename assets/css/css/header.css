@@ -715,4 +715,8 @@ header .shopping-form .item .info-item .item-quantity select {
         place-content: space-between;
     }
 
+    header nav ul .thisBold {
+        font-weight: bold;
+    }
+
 }
