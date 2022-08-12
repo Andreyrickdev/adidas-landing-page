@@ -845,3 +845,7 @@ header .shopping-form .item .info-item .item-quantity select {
         border-bottom: 20px solid #000;
     }
 }
+
+@media (max-width: 450px) {
+    
+}
