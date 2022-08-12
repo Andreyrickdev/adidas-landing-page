@@ -467,3 +467,13 @@ header .shopping-form {
 header .shopping-form.active {
     top: 160px;
 }
+
+header .shopping-form .close {
+    right:40px;
+    position: absolute;
+    opacity: 1;
+    top: -20px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid #000;
+}
