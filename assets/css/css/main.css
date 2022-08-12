@@ -216,4 +216,8 @@ main .main-background .sneakers .circle {
     main .main-background .inf-product p {
         font-size: 1rem;
     }
+
+    main .main-background .inf-product button {
+        justify-self: center;
+    }
 }
