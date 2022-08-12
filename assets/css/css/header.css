@@ -126,3 +126,10 @@ header .first-menu .search:hover {
     border: 1px solid rgb(105, 105, 105);
     transition: 0.5s;
 }
+
+header .first-menu .userAssetsAndSearch .assets .menu li {
+    display: flex;
+    font-size:1rem;
+    cursor: pointer;
+    padding: 5px 18px;
+}
