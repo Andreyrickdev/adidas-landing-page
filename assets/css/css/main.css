@@ -149,4 +149,8 @@ main .main-background .sneakers .circle {
     main .main-background {
         grid-template-columns: 1fr auto 3fr;
     }
+
+    main .main-background .inf-product {
+        width: 35ch;
+    }
 }
