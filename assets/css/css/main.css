@@ -112,4 +112,9 @@ main .main-background .sneakers .circle {
         grid-template-columns: 2fr auto 1fr;
     }
 
+    main .main-background .inf-product {
+        width: 100%;
+        gap: 20px;
+    }
+
 }
