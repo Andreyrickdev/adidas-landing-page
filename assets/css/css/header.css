@@ -268,3 +268,7 @@ header .login-form .terms input + label::before {
     cursor: pointer;
     transition: 0.5s;
 }
+
+header .login-form .terms input + label:hover::before {
+    border: 2px solid #000;
+}
