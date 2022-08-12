@@ -57,3 +57,8 @@ main .main-background .buttonsOfSneakers {
     align-self: end;
     justify-self: center;
 }
+
+main .main-background .buttonsOfSneakers .buttonOrange {
+    background-color: #f6786c;
+    cursor: pointer;
+}
