@@ -341,3 +341,8 @@ header .login-form .social li {
     display: grid;
     cursor: pointer;
 }
+
+header .login-form .social li img {
+    place-self: center;
+}
+
