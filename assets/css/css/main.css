@@ -157,5 +157,10 @@ main .main-background .sneakers .circle {
 
 @media (max-width: 740px) {
 
-    
+    main .main-background {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: auto;
+        gap: 10px;
+    }
 }
