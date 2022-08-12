@@ -639,4 +639,11 @@ header .shopping-form .item .info-item .item-quantity select {
         justify-content: flex-start;
     }
 
+    header .first-menu .icons-left li {
+        display: flex;
+        align-items: center;
+        padding: 17px 18px;
+        cursor: pointer;
+    }
+
 }
