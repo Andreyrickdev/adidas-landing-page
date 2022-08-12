@@ -143,3 +143,8 @@ main .main-background .sneakers .circle {
         cursor: pointer;
     }
 }
+
+@media (max-width: 900px) {
+
+    
+}
