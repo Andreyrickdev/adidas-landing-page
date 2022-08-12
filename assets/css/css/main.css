@@ -105,3 +105,8 @@ main .main-background .sneakers .circle {
     bottom: -15px;
     cursor: pointer;
 }
+
+@media (max-width: 1350px) {
+
+    
+}
