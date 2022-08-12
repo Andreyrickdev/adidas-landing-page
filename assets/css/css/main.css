@@ -146,5 +146,7 @@ main .main-background .sneakers .circle {
 
 @media (max-width: 900px) {
 
-    
+    main .main-background {
+        grid-template-columns: 1fr auto 3fr;
+    }
 }
