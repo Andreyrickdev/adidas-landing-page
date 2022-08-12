@@ -673,4 +673,8 @@ header .shopping-form .item .info-item .item-quantity select {
         position: relative;
     }
 
+    header .first-menu .nav .category {
+        display: none;
+    }
+
 }
