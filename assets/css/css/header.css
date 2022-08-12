@@ -762,4 +762,14 @@ header .shopping-form .item .info-item .item-quantity select {
         left:0;
     }
 
+    header .search-form .search-mobile {
+        display: block!important;
+        height: 100%;
+        width: 100%;
+        font-size: 1rem;
+        padding: 0 1rem;
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
+    }
+ 
+
 }
