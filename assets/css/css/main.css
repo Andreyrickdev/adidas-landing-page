@@ -94,3 +94,14 @@ main .main-background .sneakers .Blacksneakers:hover {
 main .main-background .sneakers .two-sneakers {
     display: none;
 }
+
+main .main-background .sneakers .circle {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    background-color: #212024;
+    position: absolute;
+    right: -210px;
+    bottom: -15px;
+    cursor: pointer;
+}
