@@ -53,6 +53,11 @@ function openOrClose() {
 
     favoriteButtonLeft.addEventListener('click', () => {
         favorite.classList.toggle('active');
+        user.classList.remove('active');
+        menu.classList.remove('active');
+        search.classList.remove('active');
+        triangle.classList.remove('active');
+        shopping.classList.remove('active'
     });
 }
 
