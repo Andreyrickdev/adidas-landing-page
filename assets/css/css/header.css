@@ -581,6 +581,13 @@ header .shopping-form .item .info-item .item-quantity select {
         align-items: center;
     }
 
+    header .first-menu .search {
+        position: relative;
+        right:0;
+        padding: 5px 5px;
+        margin-right: 0px;
+    }
+
 
 
 }
