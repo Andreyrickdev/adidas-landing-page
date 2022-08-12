@@ -450,3 +450,16 @@ header .favorite-form .close {
     border-bottom: 20px solid #000;
     top:-20px;
 }
+
+header .shopping-form {
+    background-color: #fff;
+    max-width: 500px;
+    text-transform: uppercase;
+    position: absolute;
+    display: grid;
+    right:20px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
+    top:-120rem;
+    transition: 0.5s;
+    z-index: 999;
+}
