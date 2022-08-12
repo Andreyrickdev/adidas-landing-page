@@ -724,5 +724,9 @@ header .shopping-form .item .info-item .item-quantity select {
         padding: 20px;
         font-size: 1rem;
     }
-
+    
+    header .first-menu .userAssetsAndSearch .search {
+        width: auto;
+        border: none;
+    }
 }
