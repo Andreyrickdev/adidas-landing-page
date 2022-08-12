@@ -530,3 +530,9 @@ header .shopping-form .item {
 header .shopping-form .item section {
     width: 100%;
 }
+
+header .shopping-form .item .info-item {
+    display: grid;
+    grid-template-columns: 1fr 50px;
+    padding: 10px 0px 10px 20px;
+}
