@@ -203,3 +203,9 @@ header .login-form .close {
     border-right: 10px solid transparent;
     border-bottom: 20px solid #000;
 }
+
+header .login-form h1 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
