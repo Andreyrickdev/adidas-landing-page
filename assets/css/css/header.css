@@ -744,4 +744,18 @@ header .shopping-form .item .info-item .item-quantity select {
         display: none;
     }
 
+    header .search-form {
+        position: absolute;
+        top: 160px;
+        left: -120rem;
+        width: 100%;
+        height: 2.5rem;
+        background-color: #000;
+        border-radius: 4px;
+        overflow: hidden;
+        display: flex;
+        transition: 0.4s;
+        z-index: 999;
+    }
+
 }
