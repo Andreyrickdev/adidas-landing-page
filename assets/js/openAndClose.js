@@ -26,6 +26,11 @@ function openOrClose() {
 
     searchButton.addEventListener('click', () => {
         search.classList.toggle('active');
+        menu.classList.remove('active');
+        user.classList.remove('active');
+        triangle.classList.remove('active');
+        favorite.classList.remove('active');
+        shopping.classList.remove('active');
     });
 }
 
