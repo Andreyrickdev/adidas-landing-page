@@ -32,6 +32,10 @@ function openOrClose() {
         favorite.classList.remove('active');
         shopping.classList.remove('active');
     });
+
+    searchUser.addEventListener('click', () => {
+        
+    });
 }
 
 openOrClose();
