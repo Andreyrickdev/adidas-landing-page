@@ -826,4 +826,8 @@ header .shopping-form .item .info-item .item-quantity select {
         max-width: 100px;
     }
 
+    header .shopping-form .button-submit::before {
+        display: none;
+    }
+
 }
