@@ -168,4 +168,11 @@ main .main-background .sneakers .circle {
         grid-row: 1;
         width: 100%;
     }
+
+    main .main-background .buttonsOfSneakers {
+        align-self: end;
+        justify-self: center;
+        grid-column: 1/-1;
+        grid-row: 2;
+    }
 }
