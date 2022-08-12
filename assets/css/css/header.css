@@ -630,4 +630,8 @@ header .shopping-form .item .info-item .item-quantity select {
         flex: 1;
     }
 
+    header .first-menu .userAssetsAndSearch .assets .menu li {
+        padding: 17px 18px;
+    }
+
 }
