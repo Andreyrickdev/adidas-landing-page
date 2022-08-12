@@ -368,3 +368,6 @@ header .favorite-form .wishlist {
     position: relative;
 }
 
+header .favorite-form .wishlist nav ul li {
+    position: relative;
+}
