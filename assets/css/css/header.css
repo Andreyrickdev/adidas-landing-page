@@ -571,5 +571,10 @@ header .shopping-form .item .info-item .item-quantity select {
         justify-content: initial;
     }
 
+    header .first-menu nav > ul .name-category {
+        font-size: 0.75rem;
+    }
+
+
 
 }
