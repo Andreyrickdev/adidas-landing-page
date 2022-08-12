@@ -371,3 +371,10 @@ header .favorite-form .wishlist {
 header .favorite-form .wishlist nav ul li {
     position: relative;
 }
+
+header .favorite-form .wishlist nav ul li .unfavorite{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+}
