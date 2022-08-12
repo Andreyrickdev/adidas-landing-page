@@ -14,3 +14,5 @@ function openOrClose() {
     const favorite = document.getElementsByClassName('favorite-form')[0];
     const shopping = document.getElementsByClassName('shopping-form')[0];
 }
+
+openOrClose();
