@@ -59,6 +59,10 @@ function openOrClose() {
         triangle.classList.remove('active');
         shopping.classList.remove('active');
     });
+
+    shoppingButton.addEventListener('click', () => {
+
+    });
 }
 
 openOrClose();
