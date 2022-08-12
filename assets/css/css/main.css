@@ -175,4 +175,8 @@ main .main-background .sneakers .circle {
         grid-column: 1/-1;
         grid-row: 2;
     }
+
+    main .main-background .sneakers .circle {
+        display: none;
+    } 
 }
