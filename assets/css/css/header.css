@@ -378,3 +378,12 @@ header .favorite-form .wishlist nav ul li .unfavorite{
     top: 10px;
     cursor: pointer;
 }
+
+header .favorite-form .favorite-items nav ul {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #fff;
+    place-items: center;
+    padding: 20px;
+}
+
