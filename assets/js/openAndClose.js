@@ -43,7 +43,7 @@ function openOrClose() {
     });
 
     favoriteButton.addEventListener('click', () => {
-        
+        favorite.classList.toggle('active');
     });
 }
 
