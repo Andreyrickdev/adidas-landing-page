@@ -207,4 +207,9 @@ main .main-background .sneakers .circle {
     main .main-background {
         grid-template-columns: initial;
     }
+
+    main .main-background .inf-product {
+        grid-row: 3;
+        text-align: center;
+    }
 }
