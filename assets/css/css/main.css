@@ -202,3 +202,7 @@ main .main-background .sneakers .circle {
         width: 122px;
     }
 }
+
+@media (max-width: 590px) {
+    
+}
