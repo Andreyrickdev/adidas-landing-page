@@ -8,4 +8,5 @@ const shoppingButton = document.getElementsByClassName('shopping-li')[0];
 function openOrClose() {
 
     const menu = document.getElementsByClassName('nav-mobile')[0];
+    const search = document.getElementsByClassName('search-form')[0];
 }
