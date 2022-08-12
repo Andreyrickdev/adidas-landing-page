@@ -335,3 +335,9 @@ header .login-form .social {
     height: 50px;
     gap: 20px;
 }
+
+header .login-form .social li {
+    border: 1px solid black;
+    display: grid;
+    cursor: pointer;
+}
