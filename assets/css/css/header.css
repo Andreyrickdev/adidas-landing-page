@@ -564,3 +564,7 @@ header .shopping-form .item .info-item .item-quantity select {
     font-weight: bold;
     cursor: pointer;
 }
+
+@media (max-width: 1350px) {
+    
+}
