@@ -595,5 +595,9 @@ header .shopping-form .item .info-item .item-quantity select {
 }
 
 @media (max-width: 1016px) {
-    
+
+    header .extra-inf {
+        display: none;
+    }
+
 }
