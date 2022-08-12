@@ -256,3 +256,15 @@ header .login-form .account label.active {
 header .login-form .terms input {
     display: none;
 }
+
+header .login-form .terms input + label::before {
+    content: '';
+    width: 18px;
+    height: 18px;
+    border: 2px solid rgb(100, 100, 100);
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: 0.5s;
+}
