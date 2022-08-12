@@ -187,4 +187,10 @@ main .main-background .sneakers .circle {
     main .main-background .sneakers {
         display: grid;
     }
+
+    main .main-background .sneakers .two-sneakers {
+        display: flex;
+        place-self: center;
+        align-content: center;
+    }
 }
