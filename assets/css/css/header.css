@@ -504,3 +504,9 @@ header .shopping-form .button-submit::before {
     top: 2px;
     left: 2px;
 }
+
+header .shopping-form .button-submit svg {
+    width: 20px;
+    height: 20px;
+    font-weight: bold;
+} 
