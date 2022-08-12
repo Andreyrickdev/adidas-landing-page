@@ -13,6 +13,13 @@ function openOrClose() {
     const triangle = document.getElementsByClassName('close')[0];
     const favorite = document.getElementsByClassName('favorite-form')[0];
     const shopping = document.getElementsByClassName('shopping-form')[0];
+
+
+    hamburgButton.addEventListener('click', () => {
+
+
+        
+    });
 }
 
 openOrClose();
