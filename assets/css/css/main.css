@@ -86,3 +86,7 @@ main .main-background .sneakers .Blacksneakers {
     transition: 2s;
     cursor: pointer;
 }
+
+main .main-background .sneakers .Blacksneakers:hover {
+    transform: translateY(-80px) rotate(25deg);
+}
