@@ -9,4 +9,5 @@ function openOrClose() {
 
     const menu = document.getElementsByClassName('nav-mobile')[0];
     const search = document.getElementsByClassName('search-form')[0];
+    const user = document.getElementsByClassName('login-form')[0];
 }
