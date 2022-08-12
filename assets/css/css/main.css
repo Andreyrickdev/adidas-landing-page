@@ -197,4 +197,8 @@ main .main-background .sneakers .circle {
     main .main-background .sneakers .two-sneakers .back-sneaker {
         width: 130px;
     }
+
+    main .main-background .sneakers .two-sneakers .front-sneaker {
+        width: 122px;
+    }
 }
