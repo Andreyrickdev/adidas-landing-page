@@ -63,6 +63,11 @@ main .main-background .buttonsOfSneakers .buttonOrange {
     cursor: pointer;
 }
 
+main .main-background .buttonsOfSneakers .buttonBlack {
+    background-color: #212024;
+    cursor: pointer;
+}
+
 main .main-background .buttonsOfSneakers .buttonPurple {
     background-color: #25244E;
     cursor: pointer;
