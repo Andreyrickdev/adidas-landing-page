@@ -729,4 +729,9 @@ header .shopping-form .item .info-item .item-quantity select {
         width: auto;
         border: none;
     }
+
+    header .first-menu .userAssetsAndSearch .search{
+        cursor: pointer;
+    }
+
 }
