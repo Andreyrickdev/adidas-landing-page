@@ -178,3 +178,16 @@ header .close span {
 header .close span svg {
     place-self: center;
 }
+
+header .login-form {
+    background-color: #fff;
+    position: absolute;
+    right: 0px;
+    top: -120rem;
+    width: 414.60px;
+    padding: 20px;
+    display: grid;
+    gap: 15px;
+    transition: 0.5s;
+    z-index: 999;
+}
