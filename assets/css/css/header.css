@@ -783,4 +783,8 @@ header .shopping-form .item .info-item .item-quantity select {
         left: 97px;
     }
 
+    header .favorite-form .favorite-items .wishlist .inf{
+        left: 460px;
+    }
+
 }
