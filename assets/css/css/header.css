@@ -238,3 +238,13 @@ header .login-form .account {
 header .login-form .account input {
     width: 100%;
 }
+
+header .login-form .account label {
+    background-color: #fff;;
+    color: rgb(175, 175, 175);
+    position: absolute;
+    left: 15px;
+    margin-top: 0px;
+    font-size: 1rem;
+    transition: 0.5s;
+}
