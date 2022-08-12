@@ -117,4 +117,8 @@ main .main-background .sneakers .circle {
         gap: 20px;
     }
 
+    main .main-background .inf-product button {
+        padding: 15px;
+    }
+
 }
