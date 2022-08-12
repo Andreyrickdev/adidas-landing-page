@@ -566,5 +566,10 @@ header .shopping-form .item .info-item .item-quantity select {
 }
 
 @media (max-width: 1350px) {
-    
+
+    header .first-menu {
+        justify-content: initial;
+    }
+
+
 }
