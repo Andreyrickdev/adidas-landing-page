@@ -61,7 +61,7 @@ function openOrClose() {
     });
 
     shoppingButton.addEventListener('click', () => {
-
+        shopping.classList.toggle('active');  
     });
 }
 
