@@ -137,3 +137,8 @@ header .first-menu .userAssetsAndSearch .assets .menu li {
 header .first-menu .userAssetsAndSearch .assets .menu .hamburgerAndHeart .hamburger-li {
     display: none;
 }
+
+header .nav-mobile .category {
+    display: none;
+    z-index: 999;
+}
