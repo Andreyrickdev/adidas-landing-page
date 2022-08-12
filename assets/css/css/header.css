@@ -248,3 +248,8 @@ header .login-form .account label {
     font-size: 0.80rem;
     transition: 0.5s;
 }
+
+header .login-form .account label.active {
+    margin-top: -25px;
+}
+
