@@ -291,3 +291,19 @@ header .login-form .terms label span:hover {
     color: #fff;
     padding: 3px 0px;
 }
+
+header .login-form .button-submit {
+    background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    padding: 15px;
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: 0.5s;
+    position: relative;
+}
