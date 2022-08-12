@@ -847,5 +847,8 @@ header .shopping-form .item .info-item .item-quantity select {
 }
 
 @media (max-width: 450px) {
-    
+
+    header .first-menu .logo {
+        width: 12%;
+    }
 }
