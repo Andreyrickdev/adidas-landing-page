@@ -770,6 +770,10 @@ header .shopping-form .item .info-item .item-quantity select {
         padding: 0 1rem;
         box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
     }
+
+    header .first-menu .userAssetsAndSearch .assets .menu .heart-li {
+        display: none;
+    }
  
 
 }
