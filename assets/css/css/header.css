@@ -682,4 +682,15 @@ header .shopping-form .item .info-item .item-quantity select {
         overflow-x:hidden;
     }
 
+    header .nav .category {
+        background-color: #fff;
+        position: absolute;
+        display: block!important;
+        left: -120rem;
+        top:160px;
+        width: 100%;
+        transition: 0.5s;
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
+    }
+
 }
