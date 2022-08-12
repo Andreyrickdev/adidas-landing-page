@@ -493,3 +493,14 @@ header .shopping-form .button-submit {
     transition: 0.5s;
     position: relative;
 }
+
+header .shopping-form .button-submit::before {
+    content: '';
+    position: absolute;
+    border: 1px solid #000;
+    width: 100%;
+    height: 50px;
+    z-index: -1;
+    top: 2px;
+    left: 2px;
+}
