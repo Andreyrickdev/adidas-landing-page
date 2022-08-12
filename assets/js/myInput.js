@@ -6,3 +6,8 @@ account.addEventListener('click', function () {
 
     label.classList.add('active');
 });
+
+label.addEventListener('click', function () {
+
+    
+});
