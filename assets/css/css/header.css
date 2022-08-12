@@ -195,3 +195,11 @@ header .login-form {
 header .login-form.active {
     top: 160px;
 }
+
+header .login-form .close {
+    right: 182px;
+    top: -20px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid #000;
+}
