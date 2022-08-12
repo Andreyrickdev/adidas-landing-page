@@ -12,4 +12,5 @@ function openOrClose() {
     const user = document.getElementsByClassName('login-form')[0];
     const triangle = document.getElementsByClassName('close')[0];
     const favorite = document.getElementsByClassName('favorite-form')[0];
+    const shopping = document.getElementsByClassName('shopping-form')[0];
 }
