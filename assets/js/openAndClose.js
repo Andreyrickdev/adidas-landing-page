@@ -34,7 +34,7 @@ function openOrClose() {
     });
 
     searchUser.addEventListener('click', () => {
-        
+        user.classList.toggle('active');
     });
 }
 
