@@ -179,4 +179,8 @@ main .main-background .sneakers .circle {
     main .main-background .sneakers .circle {
         display: none;
     } 
+
+    main .main-background .sneakers .Blacksneakers {
+        display: none;
+    }
 }
