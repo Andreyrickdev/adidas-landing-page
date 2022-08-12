@@ -346,3 +346,16 @@ header .login-form .social li img {
     place-self: center;
 }
 
+header .favorite-form {
+    background-color: #fff;
+    max-width: 500px;
+    position: absolute;
+    right:20px;
+    top: -90rem;
+    padding: 20px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
+    background-color:#fff;
+    transition: 0.5s;
+    z-index: 999;
+}
+
