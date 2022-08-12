@@ -1,0 +1,1 @@
+const account = document.getElementsByClassName('account')[0];
