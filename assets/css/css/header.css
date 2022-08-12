@@ -807,6 +807,10 @@ header .shopping-form .item .info-item .item-quantity select {
         width: 100%;
         max-width: 100%;
     }
+
+    header .favorite-form .favorite-items .wishlist {
+        display: grid;
+    }
 }
 
 @media (max-width: 600px) {
