@@ -557,3 +557,10 @@ header .shopping-form .item .info-item .icons img, header .shopping-form .item .
 header .shopping-form .item .info-item .item-quantity {
     grid-column: 1/-1;
 }
+
+header .shopping-form .item .info-item .item-quantity select {
+    padding: 20px 30px;
+    border:1px solid #000;
+    font-weight: bold;
+    cursor: pointer;
+}
