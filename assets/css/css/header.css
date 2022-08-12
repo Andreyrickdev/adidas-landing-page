@@ -133,3 +133,7 @@ header .first-menu .userAssetsAndSearch .assets .menu li {
     cursor: pointer;
     padding: 5px 18px;
 }
+
+header .first-menu .userAssetsAndSearch .assets .menu .hamburgerAndHeart .hamburger-li {
+    display: none;
+}
