@@ -693,4 +693,8 @@ header .shopping-form .item .info-item .item-quantity select {
         box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
     }
 
+    header .nav.active .category {
+        left: 0rem;
+    }
+
 }
