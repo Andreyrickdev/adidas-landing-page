@@ -463,3 +463,7 @@ header .shopping-form {
     transition: 0.5s;
     z-index: 999;
 }
+
+header .shopping-form.active {
+    top: 160px;
+}
