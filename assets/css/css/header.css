@@ -245,6 +245,6 @@ header .login-form .account label {
     position: absolute;
     left: 15px;
     margin-top: 0px;
-    font-size: 1rem;
+    font-size: 0.80rem;
     transition: 0.5s;
 }
