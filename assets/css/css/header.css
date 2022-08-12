@@ -808,4 +808,13 @@ header .shopping-form .item .info-item .item-quantity select {
         max-width: 100%;
     }
 
+    header .shopping-form {
+        max-width: initial;
+        justify-content: center;
+        place-self: center;
+        padding: 0;
+        right: 0;
+        width: 100%;
+    }
+
 }
