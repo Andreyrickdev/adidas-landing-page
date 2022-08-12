@@ -677,4 +677,9 @@ header .shopping-form .item .info-item .item-quantity select {
         display: none;
     }
 
+    header .nav-mobile {
+        background-color: orange;
+        overflow-x:hidden;
+    }
+
 }
