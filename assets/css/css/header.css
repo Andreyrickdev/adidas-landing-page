@@ -253,3 +253,6 @@ header .login-form .account label.active {
     margin-top: -25px;
 }
 
+header .login-form .terms input {
+    display: none;
+}
