@@ -439,3 +439,14 @@ header .favorite-form .wishlist .inf button svg {
 header .favorite-form h1 {
     text-transform: uppercase;
 }
+
+header .favorite-form .close {
+    right:101px;
+    position: absolute;
+    display: block;
+    opacity: 1;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid #000;
+    top:-20px;
+}
