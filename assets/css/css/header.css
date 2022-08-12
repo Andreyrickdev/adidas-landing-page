@@ -234,3 +234,7 @@ header .login-form .account {
     background-color: #fff;
     border: 1px solid rgb(134, 134, 134);
 }
+
+header .login-form .account input {
+    width: 100%;
+}
