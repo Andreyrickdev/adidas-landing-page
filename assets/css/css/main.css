@@ -23,3 +23,7 @@ main .main-background .inf-product h1 {
     font-size: 2rem;
     font-style: italic;
 }
+
+main .main-background .inf-product p {
+    font-size: 1.3rem;
+}
