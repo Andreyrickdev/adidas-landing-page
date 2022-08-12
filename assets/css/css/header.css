@@ -697,4 +697,9 @@ header .shopping-form .item .info-item .item-quantity select {
         left: 0rem;
     }
 
+    header .nav .category > li { 
+        text-transform: uppercase;
+        font-size: 1rem;
+    }
+
 }
