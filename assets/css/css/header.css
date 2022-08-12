@@ -801,6 +801,10 @@ header .shopping-form .item .info-item .item-quantity select {
 
 }
 
+@media (max-width: 800px) {
+    
+}
+
 @media (max-width: 600px) {
 
     header .login-form {
