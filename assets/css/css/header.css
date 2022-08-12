@@ -285,3 +285,9 @@ header .login-form .terms label span {
     cursor: pointer;
     transition: 0.5s;
 }
+
+header .login-form .terms label span:hover {
+    background-color: #000;
+    color: #fff;
+    padding: 3px 0px;
+}
