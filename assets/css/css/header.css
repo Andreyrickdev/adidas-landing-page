@@ -651,4 +651,15 @@ header .shopping-form .item .info-item .item-quantity select {
         width: 30px;
     }
 
+    header .first-menu .icons-left .hamburger-li span::before {
+        content: '';
+        display: block;
+        width: 30px;
+        height: 3px;
+        background-color: currentColor;
+        margin-top: 5px;
+        transition: 0.3s;
+        position: relative;
+    }
+
 }
