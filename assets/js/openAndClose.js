@@ -62,6 +62,11 @@ function openOrClose() {
 
     shoppingButton.addEventListener('click', () => {
         shopping.classList.toggle('active');  
+        user.classList.remove('active');
+        menu.classList.remove('active');
+        search.classList.remove('active');
+        triangle.classList.remove('active');
+        favorite.classList.remove('active');
     });
 }
 
