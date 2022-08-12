@@ -328,3 +328,10 @@ header .login-form .button-submit svg {
 header .login-form .button-submit:hover {
     color: rgb(173, 173, 173);
 }
+
+header .login-form .social {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 50px;
+    gap: 20px;
+}
