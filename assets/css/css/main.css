@@ -18,3 +18,8 @@ main .main-background .inf-product {
     align-self: center;
     gap: 40px;
 }
+
+main .main-background .inf-product h1 {
+    font-size: 2rem;
+    font-style: italic;
+}
