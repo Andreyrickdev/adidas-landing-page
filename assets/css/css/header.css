@@ -536,3 +536,8 @@ header .shopping-form .item .info-item {
     grid-template-columns: 1fr 50px;
     padding: 10px 0px 10px 20px;
 }
+
+header .shopping-form .item .info-item .nameAndValue {
+    display: flex;
+    justify-content: space-between;
+}
