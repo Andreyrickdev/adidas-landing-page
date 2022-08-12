@@ -41,6 +41,10 @@ function openOrClose() {
         favorite.classList.remove('active');
         shopping.classList.remove('active');
     });
+
+    favoriteButton.addEventListener('click', () => {
+        
+    });
 }
 
 openOrClose();
