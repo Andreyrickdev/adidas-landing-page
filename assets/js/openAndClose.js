@@ -35,6 +35,11 @@ function openOrClose() {
 
     searchUser.addEventListener('click', () => {
         user.classList.toggle('active');
+        menu.classList.remove('active');
+        search.classList.remove('active');
+        triangle.classList.remove('active');
+        favorite.classList.remove('active');
+        shopping.classList.remove('active');
     });
 }
 
