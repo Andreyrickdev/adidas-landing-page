@@ -324,3 +324,7 @@ header .login-form .button-submit svg {
     height: 20px;
     font-weight: bold;
 } 
+
+header .login-form .button-submit:hover {
+    color: rgb(173, 173, 173);
+}
