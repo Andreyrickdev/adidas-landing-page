@@ -858,4 +858,9 @@ header .shopping-form .item .info-item .item-quantity select {
     header .shopping-form .close {
         display: none;
     }
+
+    header .login-form .close {
+        display: none;
+    }
+
 }
