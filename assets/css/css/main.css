@@ -163,4 +163,9 @@ main .main-background .sneakers .circle {
         height: auto;
         gap: 10px;
     }
+
+    main .main-background .inf-product {
+        grid-row: 1;
+        width: 100%;
+    }
 }
