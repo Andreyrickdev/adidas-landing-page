@@ -209,3 +209,12 @@ header .login-form h1 {
     text-transform: uppercase;
     font-weight: bold;
 }
+
+header .login-form .benefits-ul li .benefits::before {
+    content: '';
+    display: inline-block;
+    background-image: url('/assets/imgs/done.svg');
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
