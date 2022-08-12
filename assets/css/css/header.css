@@ -435,3 +435,7 @@ header .favorite-form .wishlist .inf button svg {
     height: 20px;
     font-weight: bold;
 } 
+
+header .favorite-form h1 {
+    text-transform: uppercase;
+}
