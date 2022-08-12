@@ -588,6 +588,10 @@ header .shopping-form .item .info-item .item-quantity select {
         margin-right: 0px;
     }
 
+    header .first-menu .search .searching {
+        width: 120px;
+    }
+
 
 
 }
