@@ -387,3 +387,8 @@ header .favorite-form .favorite-items nav ul {
     padding: 20px;
 }
 
+header .favorite-form .favorite-items nav ul li {
+    display: grid;
+    gap: 10px;
+}
+
