@@ -50,6 +50,10 @@ function openOrClose() {
         triangle.classList.remove('active');
         shopping.classList.remove('active');
     });
+
+    favoriteButtonLeft.addEventListener('click', () => {
+        
+    });
 }
 
 openOrClose();
