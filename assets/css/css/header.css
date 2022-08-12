@@ -821,4 +821,9 @@ header .shopping-form .item .info-item .item-quantity select {
         right: 30px;
     }
 
+    header .shopping-form .item section img {
+        object-fit: cover;
+        max-width: 100px;
+    }
+
 }
