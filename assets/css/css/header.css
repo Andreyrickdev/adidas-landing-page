@@ -402,3 +402,19 @@ header .favorite-form .favorite-items .wishlist .inf {
     gap: 5px;
 }
 
+header .favorite-form .wishlist .inf button {
+    background-color: #fff;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    padding: 15px;
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: 0.5s;
+    position: relative;
+    border: 1px solid #000;
+}
+
