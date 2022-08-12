@@ -719,4 +719,10 @@ header .shopping-form .item .info-item .item-quantity select {
         font-weight: bold;
     }
 
+    header .category > li { 
+        text-transform: uppercase;
+        padding: 20px;
+        font-size: 1rem;
+    }
+
 }
