@@ -600,4 +600,12 @@ header .shopping-form .item .info-item .item-quantity select {
         display: none;
     }
 
+    header .first-menu {
+        display: flex;
+        padding: 0px 10px;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+    }
+
 }
