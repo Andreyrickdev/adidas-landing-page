@@ -541,3 +541,11 @@ header .shopping-form .item .info-item .nameAndValue {
     display: flex;
     justify-content: space-between;
 }
+
+header .shopping-form .item .info-item .icons {
+    display: grid;
+    align-self: start;
+    justify-self: center;
+    justify-content: center;
+    gap: 20px;
+}
