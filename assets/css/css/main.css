@@ -193,4 +193,8 @@ main .main-background .sneakers .circle {
         place-self: center;
         align-content: center;
     }
+
+    main .main-background .sneakers .two-sneakers .back-sneaker {
+        width: 130px;
+    }
 }
