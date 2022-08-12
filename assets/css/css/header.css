@@ -218,3 +218,7 @@ header .login-form .benefits-ul li .benefits::before {
     height: 20px;
     margin-right: 10px;
 }
+
+header .login-form .benefits-ul li .benefits span {
+    color: #0081c7;
+}
