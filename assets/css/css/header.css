@@ -429,3 +429,9 @@ header .favorite-form .wishlist .inf button::before {
     top: 2px;
     left: 2px;
 }
+
+header .favorite-form .wishlist .inf button svg {
+    width: 20px;
+    height: 20px;
+    font-weight: bold;
+} 
