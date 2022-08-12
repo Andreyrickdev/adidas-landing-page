@@ -734,4 +734,10 @@ header .shopping-form .item .info-item .item-quantity select {
         cursor: pointer;
     }
 
+    header .first-menu .search .buttonSearch {
+        padding: 17px 18px;
+        display: flex;
+        align-items: center;
+    }
+
 }
