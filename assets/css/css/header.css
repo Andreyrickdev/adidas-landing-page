@@ -170,3 +170,7 @@ header .close.active {
     opacity: 1;
     transition: opacity 2s;
 }
+
+header .close span {
+    display: grid;
+}
