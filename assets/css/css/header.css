@@ -740,4 +740,8 @@ header .shopping-form .item .info-item .item-quantity select {
         align-items: center;
     }
 
+    header .first-menu .userAssetsAndSearch .search .searching {
+        display: none;
+    }
+
 }
