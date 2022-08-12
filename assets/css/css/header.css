@@ -787,4 +787,12 @@ header .shopping-form .item .info-item .item-quantity select {
         left: 460px;
     }
 
+    header .login-form .close {
+        right: 90px;
+        top: -20px;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-bottom: 20px solid #000;
+    }
+
 }
