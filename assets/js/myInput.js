@@ -11,3 +11,8 @@ label.addEventListener('click', function () {
 
     label.classList.add('active');
 });
+
+document.addEventListener('mouseup', function(e) {
+
+    
+});
