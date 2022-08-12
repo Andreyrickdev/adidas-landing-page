@@ -222,3 +222,8 @@ header .login-form .benefits-ul li .benefits::before {
 header .login-form .benefits-ul li .benefits span {
     color: #0081c7;
 }
+
+header .login-form h2 {
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
