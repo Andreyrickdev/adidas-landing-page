@@ -72,3 +72,7 @@ main .main-background .buttonsOfSneakers .buttonPurple {
     background-color: #25244E;
     cursor: pointer;
 }
+
+main .main-background .sneakers {
+    position: relative;
+}
