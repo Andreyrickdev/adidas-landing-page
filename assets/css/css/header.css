@@ -514,3 +514,7 @@ header .shopping-form .button-submit svg {
 header .shopping-form .button-submit:hover {
     color: rgb(173, 173, 173);
 }
+
+header .shopping-form h1 {
+    text-align: center;
+}
