@@ -811,6 +811,12 @@ header .shopping-form .item .info-item .item-quantity select {
     header .favorite-form .favorite-items .wishlist {
         display: grid;
     }
+
+    header .favorite-form .favorite-items .wishlist .inf {
+        position: relative;
+        left: 0;
+        width: 100%;
+    }
 }
 
 @media (max-width: 600px) {
