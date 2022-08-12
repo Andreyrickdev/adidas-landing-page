@@ -279,3 +279,9 @@ header .login-form .terms input:checked + label::before {
     background-position: center;
     border: 2px solid #000;
 }
+
+header .login-form .terms label span {
+    text-decoration: underline;
+    cursor: pointer;
+    transition: 0.5s;
+}
