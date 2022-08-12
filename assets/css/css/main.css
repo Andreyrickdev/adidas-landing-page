@@ -41,3 +41,9 @@ main .main-background .inf-product button {
     align-items: center;
     cursor: pointer;
 }
+
+main .main-background .inf-product button img {
+    animation: moveArrow 1.5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
