@@ -142,3 +142,7 @@ header .nav-mobile .category {
     display: none;
     z-index: 999;
 }
+
+header .search-mobile {
+    display: none;
+}
