@@ -76,3 +76,13 @@ main .main-background .buttonsOfSneakers .buttonPurple {
 main .main-background .sneakers {
     position: relative;
 }
+
+main .main-background .sneakers .Blacksneakers {
+    position: relative;
+    z-index: 2;
+    position: absolute;
+    right: -0px;
+    bottom: 60px;
+    transition: 2s;
+    cursor: pointer;
+}
