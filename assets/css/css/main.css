@@ -90,3 +90,7 @@ main .main-background .sneakers .Blacksneakers {
 main .main-background .sneakers .Blacksneakers:hover {
     transform: translateY(-80px) rotate(25deg);
 }
+
+main .main-background .sneakers .two-sneakers {
+    display: none;
+}
