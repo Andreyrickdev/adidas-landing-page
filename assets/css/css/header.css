@@ -392,3 +392,13 @@ header .favorite-form .favorite-items nav ul li {
     gap: 10px;
 }
 
+header .favorite-form .favorite-items .wishlist .inf {
+    background-color: rgb(168, 168, 168);
+    padding: 20px;
+    width: 300px;
+    position: absolute;
+    left:-300px;
+    display: grid;
+    gap: 5px;
+}
+
