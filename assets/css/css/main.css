@@ -27,3 +27,17 @@ main .main-background .inf-product h1 {
 main .main-background .inf-product p {
     font-size: 1.3rem;
 }
+
+main .main-background .inf-product button {
+    background-color: rgb(168, 168, 168);
+    font-size: 1.1rem;
+    padding: 20px;
+    font-weight: bold;
+    place-self: left;
+    width: 12rem;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
