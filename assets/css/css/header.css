@@ -154,3 +154,17 @@ header .background-form {
     position: absolute;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
 }
+
+header .close {
+    position: absolute;
+    /*right:-25px;*/
+    top:-20px;
+    right: 182px;
+    width: 10px;
+    height: 10px;
+    /*border:1px solid #000;*/
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid #000;
+}
