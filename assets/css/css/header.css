@@ -706,4 +706,13 @@ header .shopping-form .item .info-item .item-quantity select {
         left: 0rem;
     }
 
+    header .nav > ul .name-category {
+        font-size:.9rem;
+        cursor: pointer;
+        margin-top: 15px;
+        letter-spacing: 0.1rem;
+        display: flex;
+        place-content: space-between;
+    }
+
 }
