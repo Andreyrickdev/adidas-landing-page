@@ -758,4 +758,8 @@ header .shopping-form .item .info-item .item-quantity select {
         z-index: 999;
     }
 
+    header .search-form.active {
+        left:0;
+    }
+
 }
