@@ -608,4 +608,10 @@ header .shopping-form .item .info-item .item-quantity select {
         justify-content: space-between;
     }
 
+    header .first-menu .icons-left {
+        display: flex;
+        flex-direction: row;
+        flex: 1;
+    }
+
 }
