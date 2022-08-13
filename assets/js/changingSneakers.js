@@ -42,4 +42,6 @@ btnBlack.addEventListener('click', () => {
     for (snks of sneaker) {
         snks.classList.remove('active');
     }
+
+    const Blacksneakers = document.querySelector('.Blacksneakers');
 });
