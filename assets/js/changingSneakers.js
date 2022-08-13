@@ -35,4 +35,5 @@ btnBlack.addEventListener('click', () => {
 
     circle.classList.add('blackCircle');
     circle.classList.remove('orangeCircle');
+    circle.classList.remove('purpleCircle');
 });
