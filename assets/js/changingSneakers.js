@@ -32,4 +32,6 @@ btnOrange.addEventListener('click', () => {
 btnBlack.addEventListener('click', () => {
 
     const circle = document.querySelector('.circle');
+
+    circle.classList.add('blackCircle');
 });
