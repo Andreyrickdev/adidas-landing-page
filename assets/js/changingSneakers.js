@@ -76,4 +76,7 @@ btnPurple.addEventListener('click', () => {
 
     const twoSneakers = document.querySelectorAll('.two-sneakers');
 
+    for (twoSnks of twoSneakers) {
+
+    }
 });
