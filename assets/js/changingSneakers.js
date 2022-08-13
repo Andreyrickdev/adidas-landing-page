@@ -79,4 +79,6 @@ btnPurple.addEventListener('click', () => {
     for (twoSnks of twoSneakers) {
         twoSnks.classList.remove('active');
     }
+
+    twoSneakers[2].classList.add('active');
 });
