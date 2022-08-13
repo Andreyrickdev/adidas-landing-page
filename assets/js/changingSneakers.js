@@ -19,4 +19,6 @@ btnOrange.addEventListener('click', () => {
     const Orangesneakers = document.querySelector('.Orangesneakers');
 
     Orangesneakers.classList.add('active');
+
+    const twoSneakers = document.querySelectorAll('.two-sneakers');
 });
