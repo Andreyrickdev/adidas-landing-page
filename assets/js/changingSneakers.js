@@ -6,7 +6,5 @@ btnOrange.addEventListener('click', () => {
 
     const circle = document.querySelectorAll('.circle');
 
-    for (cl of circle) {
-        
-    }
+    
 });
