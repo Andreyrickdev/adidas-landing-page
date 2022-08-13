@@ -45,6 +45,5 @@ btnBlack.addEventListener('click', () => {
 
     const Blacksneakers = document.querySelector('.Blacksneakers');
 
-    Orangesneakers.classList.add('active');
-    
+    Blacksneakers.classList.add('active');
 });
