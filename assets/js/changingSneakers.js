@@ -15,4 +15,6 @@ btnOrange.addEventListener('click', () => {
     for (snks of sneaker) {
         snks.classList.remove('active');
     }
+
+    const Orangesneakers = document.querySelector('.Orangesneakers');
 });
