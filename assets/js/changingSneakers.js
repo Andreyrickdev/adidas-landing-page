@@ -28,3 +28,8 @@ btnOrange.addEventListener('click', () => {
 
     twoSneakers[1].classList.add('active');
 });
+
+btnBlack.addEventListener('click', () => {
+
+    
+});
