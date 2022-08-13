@@ -4,7 +4,7 @@ const btnPurple = document.querySelector('.buttonPurple');
 
 btnOrange.addEventListener('click', () => {
 
-    const circle = document.querySelectorAll('.circle');
+    const circle = document.querySelector('.circle');
 
-    
+
 });
