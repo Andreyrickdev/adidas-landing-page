@@ -34,4 +34,5 @@ btnBlack.addEventListener('click', () => {
     const circle = document.querySelector('.circle');
 
     circle.classList.add('blackCircle');
+    circle.classList.remove('orangeCircle');
 });
