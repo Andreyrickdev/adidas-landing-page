@@ -25,4 +25,6 @@ btnOrange.addEventListener('click', () => {
     for (twoSnks of twoSneakers) {
         twoSnks.classList.remove('active');
     }
+
+    twoSneakers[1].classList.add('active');
 });
