@@ -72,4 +72,6 @@ btnPurple.addEventListener('click', () => {
 
     const Purplesneakers = document.querySelector('.Purplesneakers');
 
+    Orangesneakers.classList.add('active');
+
 });
