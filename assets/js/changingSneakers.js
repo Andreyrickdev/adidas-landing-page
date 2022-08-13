@@ -61,4 +61,5 @@ btnPurple.addEventListener('click', () => {
     const circle = document.querySelector('.circle');
 
     circle.classList.add('purpleCircle');
+    circle.classList.remove('blackCircle');
 });
