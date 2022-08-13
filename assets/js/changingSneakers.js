@@ -72,7 +72,7 @@ btnPurple.addEventListener('click', () => {
 
     const Purplesneakers = document.querySelector('.Purplesneakers');
 
-    Orangesneakers.classList.add('active');
+    Purplesneakers.classList.add('active');
 
     const twoSneakers = document.querySelectorAll('.two-sneakers');
 
