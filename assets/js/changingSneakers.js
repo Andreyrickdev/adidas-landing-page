@@ -38,4 +38,8 @@ btnBlack.addEventListener('click', () => {
     circle.classList.remove('purpleCircle');
 
     const sneaker = document.querySelectorAll('.sneaker');
+
+    for (snks of sneaker) {
+        
+    }
 });
