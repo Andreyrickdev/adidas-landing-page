@@ -62,4 +62,5 @@ btnPurple.addEventListener('click', () => {
 
     circle.classList.add('purpleCircle');
     circle.classList.remove('blackCircle');
+    circle.classList.remove('orangeCircle');
 });
