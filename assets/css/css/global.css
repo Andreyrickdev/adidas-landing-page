@@ -8,7 +8,7 @@
     outline: none;
     border: none;
     text-decoration: none;
-    font-family: AdihausDIN;
+    font-family: AdihausDIN!important;
 }
 
 body, html {
