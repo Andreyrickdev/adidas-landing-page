@@ -58,5 +58,7 @@ btnBlack.addEventListener('click', () => {
 
 btnPurple.addEventListener('click', () => {
 
+    const circle = document.querySelector('.circle');
+
     
 });
