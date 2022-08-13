@@ -1,5 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/80b09c4ebad1bdde194e60b3dd2c5071?family=AdihausDIN+Cn);
-@import url(//db.onlinewebfonts.com/c/c0cd6ec8ce6d2bbd315a13b62ed13550?family=AdihausDIN);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,400&display=swap');
 
 * {
     margin:0;
@@ -8,7 +7,7 @@
     outline: none;
     border: none;
     text-decoration: none;
-    font-family: AdihausDIN!important;
+    font-family: Roboto!important;
 }
 
 body, html {
