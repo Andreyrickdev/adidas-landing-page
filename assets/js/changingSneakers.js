@@ -55,3 +55,8 @@ btnBlack.addEventListener('click', () => {
 
     twoSneakers[0].classList.add('active');
 });
+
+btnPurple.addEventListener('click', () => {
+
+    
+});
