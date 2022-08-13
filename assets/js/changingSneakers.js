@@ -74,4 +74,6 @@ btnPurple.addEventListener('click', () => {
 
     Orangesneakers.classList.add('active');
 
+    const twoSneakers = document.querySelectorAll('.two-sneakers');
+
 });
