@@ -77,7 +77,7 @@ main .main-background .sneakers {
     position: relative;
 }
 
-main .main-background .sneakers .Blacksneakers {
+main .main-background .sneakers .sneaker {
     position: relative;
     z-index: 2;
     position: absolute;
@@ -87,7 +87,23 @@ main .main-background .sneakers .Blacksneakers {
     cursor: pointer;
 }
 
-main .main-background .sneakers .Blacksneakers:hover {
+main .main-background .sneakers .Blacksneakers {
+    display: none;
+} 
+
+main .main-background .sneakers .Orangesneakers {
+    display: none;
+} 
+
+main .main-background .sneakers .Purplesneakers {
+    display: none;
+} 
+
+main .main-background .sneakers .sneaker.active {
+    display: flex;
+} 
+
+main .main-background .sneakers .sneaker:hover {
     transform: translateY(-80px) rotate(25deg);
 }
 
@@ -99,11 +115,22 @@ main .main-background .sneakers .circle {
     width: 450px;
     height: 450px;
     border-radius: 50%;
-    background-color: #212024;
     position: absolute;
     right: -210px;
     bottom: -15px;
     cursor: pointer;
+}
+
+main .main-background .sneakers > .blackCircle {
+    background-color: #212024;
+}
+
+main .main-background .sneakers > .orangeCircle {
+    background-color: #f6786c;
+}
+
+main .main-background .sneakers > .purpleCircle {
+    background-color: #25244E;
 }
 
 @media (max-width: 1350px) {
@@ -121,7 +148,7 @@ main .main-background .sneakers .circle {
         padding: 15px;
     }
 
-    main .main-background .sneakers .Blacksneakers {
+    main .main-background .sneakers .sneaker {
         width: 400px;
         transform: translateY(-80px) rotate(90deg);
         right: -100px;
@@ -136,7 +163,6 @@ main .main-background .sneakers .circle {
         width: 350px;
         height: 350px;
         border-radius: 50%;
-        background-color: #212024;
         position: absolute;
         right: -160px;
         bottom: -15px;
@@ -180,8 +206,8 @@ main .main-background .sneakers .circle {
         display: none;
     } 
 
-    main .main-background .sneakers .Blacksneakers {
-        display: none;
+    main .main-background .sneakers .sneaker {
+        display: none!important;
     }
 
     main .main-background .sneakers {
@@ -192,15 +218,13 @@ main .main-background .sneakers .circle {
         display: flex;
         place-self: center;
         align-content: center;
+        display: none;
     }
 
-    main .main-background .sneakers .two-sneakers .back-sneaker {
-        width: 130px;
+    main .main-background .sneakers .active {
+        display: flex;
     }
 
-    main .main-background .sneakers .two-sneakers .front-sneaker {
-        width: 122px;
-    }
 }
 
 @media (max-width: 590px) {
