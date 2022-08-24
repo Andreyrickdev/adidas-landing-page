@@ -147,6 +147,18 @@ main .buy-now .product .photos-sneaker {
     position: relative;
 }
 
+main .buy-now .product .photos-sneaker ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 1530px;
+    gap: 1px;
+    overflow: hidden;
+    transition: height 0.5s;
+
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
