@@ -1,0 +1,8 @@
+.come-club {
+    background-color: #ede734;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    align-items: center;
+    gap: 60px;
+}
