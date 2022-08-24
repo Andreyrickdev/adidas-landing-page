@@ -339,6 +339,10 @@ main .buy-now .inf-sneaker .sizes{
     gap: 10px;
 }
 
+main .buy-now .inf-sneaker .sizes h3{
+    font-size: 1rem;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
