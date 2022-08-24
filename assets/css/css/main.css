@@ -264,6 +264,11 @@ main .buy-now .product .sneakers-models ul li::after {
     background-color: #000;
 }
 
+main .buy-now .product .sneakers-models ul li:hover::after {
+    width: 100%;
+    transition: 0.4s;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
