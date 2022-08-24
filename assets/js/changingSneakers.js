@@ -90,5 +90,7 @@ function changingSneaker () {
             li.classList.remove('active');
         }
 
+        liInUl[0].classList.add('active');
+
     }
 }
