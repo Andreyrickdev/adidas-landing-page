@@ -379,6 +379,12 @@ main .buy-now .inf-sneaker .sizeGuidelines:hover{
     color: #fff;
 }
 
+main .buy-now .inf-sneaker .btns ul{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
