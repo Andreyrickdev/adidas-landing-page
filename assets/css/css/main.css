@@ -405,6 +405,10 @@ main .buy-now .inf-sneaker .btns ul li .btn-1,  .buy-now .inf-sneaker .btns ul l
     transition: 0.5s;
 }
 
+main .buy-now .inf-sneaker .btns ul li .btn-1:hover,  .buy-now .inf-sneaker .btns ul li .btn-3:hover{
+    color: rgb(173, 173, 173);
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
