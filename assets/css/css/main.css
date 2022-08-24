@@ -324,6 +324,11 @@ main .buy-now .inf-sneaker .price-installments .installments{
     cursor: pointer;
 }
 
+main .buy-now .inf-sneaker .what-is-boost{
+    display: grid;
+    gap: 10px;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
