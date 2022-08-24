@@ -25,6 +25,7 @@ main .main-background .inf-product {
 main .main-background .inf-product h1 {
     font-size: 2rem;
     font-style: italic;
+    letter-spacing: 2px;
 }
 
 main .main-background .inf-product p {
