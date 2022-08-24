@@ -40,5 +40,11 @@
 }
 
 @media (max-width: 1016px) {
-    
+
+    .come-club {
+        justify-content: start;
+        display: block;
+    }
+
+
 }
