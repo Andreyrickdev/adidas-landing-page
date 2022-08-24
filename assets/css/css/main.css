@@ -137,6 +137,12 @@ main .main-background .sneakers > .purpleCircle {
     background-color: #25244E;
 }
 
+main .buy-now {                                                                                                                    /*esse*/
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 40px;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
