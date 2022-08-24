@@ -102,5 +102,10 @@ function changingSneaker () {
         circle.classList.remove('purpleCircle');
 
         const sneaker = document.querySelectorAll('.sneaker');
+
+        for (snks of sneaker) {
+            snks.classList.remove('active');
+        }
+
     }
 }
