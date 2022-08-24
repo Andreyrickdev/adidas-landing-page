@@ -334,6 +334,11 @@ main .buy-now .inf-sneaker .what-is-boost h3{
     text-transform: uppercase;
 }
 
+main .buy-now .inf-sneaker .sizes{
+    display: grid;
+    gap: 10px;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
