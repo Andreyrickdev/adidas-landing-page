@@ -188,6 +188,10 @@ main .buy-now .product .photos-sneaker ul li img.active {
     display: flex;
 }
 
+main .buy-now .product .photos-sneaker ul .hide {
+    display: none;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
