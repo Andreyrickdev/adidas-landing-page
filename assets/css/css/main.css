@@ -452,6 +452,12 @@ main .buy-now .inf-sneaker .free-shipping {
     width: 40ch;
 }
 
+main .buy-now .inf-sneaker .free-shipping:hover p {
+    color: #fff;
+    background-color: #000;
+}
+
+
 @media (max-width: 1350px) {
 
     main .main-background {
