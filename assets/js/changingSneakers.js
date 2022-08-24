@@ -32,5 +32,7 @@ function changingSneaker () {
             twoSnks.classList.remove('active');
         }
 
+        twoSneakers[1].classList.add('active');
+
     }
 }
