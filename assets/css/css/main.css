@@ -184,6 +184,10 @@ main .buy-now .product .photos-sneaker ul li img{
     display: none;
 }
 
+main .buy-now .product .photos-sneaker ul li img.active {
+    display: flex;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
