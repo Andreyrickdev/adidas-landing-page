@@ -343,6 +343,11 @@ main .buy-now .inf-sneaker .sizes h3{
     font-size: 1rem;
 }
 
+main .buy-now .inf-sneaker .sizes nav ul{
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
