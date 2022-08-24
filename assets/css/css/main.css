@@ -175,6 +175,11 @@ main .buy-now .product .photos-sneaker ul .first-img {
     justify-content: center;
 }
 
+main .buy-now .product .photos-sneaker ul li {
+    display: grid;
+    cursor: pointer;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
