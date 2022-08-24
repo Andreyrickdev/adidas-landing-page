@@ -361,6 +361,11 @@ main .buy-now .inf-sneaker .sizes nav ul li .line-through{
     text-decoration: line-through;
 }
 
+main .buy-now .inf-sneaker .sizes nav ul li:hover{
+    background-color: #000;
+    color: #fff;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
