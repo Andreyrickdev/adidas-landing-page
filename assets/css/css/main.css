@@ -159,6 +159,10 @@ main .buy-now .product .photos-sneaker ul {
     scrollbar-width: none;
 }
 
+main .buy-now .product .photos-sneaker ul::-webkit-scrollbar {
+    display: none;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
