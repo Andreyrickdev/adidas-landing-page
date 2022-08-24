@@ -389,6 +389,11 @@ main .buy-now .inf-sneaker .btns ul li{
     display: grid;
 }
 
+main .buy-now .inf-sneaker .btns ul li button{
+    padding: 15px;
+    cursor: pointer;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
