@@ -180,6 +180,10 @@ main .buy-now .product .photos-sneaker ul li {
     cursor: pointer;
 }
 
+main .buy-now .product .photos-sneaker ul li img{
+    display: none;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
