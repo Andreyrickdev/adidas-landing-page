@@ -162,5 +162,6 @@ function changingSneaker () {
 
         imgs1[0].classList.add('active');
         imgs2[0].classList.add('active');
+        imgs3[0].classList.add('active');
     }
 }
