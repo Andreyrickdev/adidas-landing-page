@@ -310,6 +310,10 @@ main .buy-now .inf-sneaker .name-price-model h1{
     letter-spacing: 2px;
 }
 
+main .buy-now .inf-sneaker .name-price-model .price{
+    font-weight: bold;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
