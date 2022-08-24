@@ -107,5 +107,6 @@ function changingSneaker () {
             snks.classList.remove('active');
         }
 
+        const Blacksneakers = document.querySelector('.Blacksneakers');
     }
 }
