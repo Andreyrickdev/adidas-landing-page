@@ -34,5 +34,6 @@ function changingSneaker () {
 
         twoSneakers[1].classList.add('active');
 
+        const ulImgs = document.querySelector('.ul-imgs');
     }
 }
