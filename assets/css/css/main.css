@@ -491,6 +491,10 @@ main .buy-now .inf-sneaker .free-shipping:hover p {
         width: 100%;
     }
 
+    main .buy-now .product .photos-sneaker .background-button {
+        display: none;
+    }
+
     main .main-background .inf-product {
         width: 100%;
         gap: 20px;
