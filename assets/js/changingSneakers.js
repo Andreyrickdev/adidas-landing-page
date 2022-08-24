@@ -97,6 +97,6 @@ function changingSneaker () {
     function actionBlack () {
 
         const circle = document.querySelector('.circle');
-
+        circle.classList.add('blackCircle');
     }
 }
