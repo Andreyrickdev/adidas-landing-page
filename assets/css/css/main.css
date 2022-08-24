@@ -278,6 +278,10 @@ main .buy-now .inf-sneaker {
     height: 900px;
 }
 
+main .buy-now .inf-sneaker.atBottom {
+    height: auto;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
