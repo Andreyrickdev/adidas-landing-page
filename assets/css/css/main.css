@@ -443,6 +443,10 @@ main .buy-now .inf-sneaker .btns ul li .btn-3 {
     border: 1px solid #000;
 }
 
+main .buy-now .inf-sneaker .btns ul .lookForAlternatives{
+    grid-column: 1/-1;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
