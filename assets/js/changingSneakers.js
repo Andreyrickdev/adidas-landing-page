@@ -117,5 +117,7 @@ function changingSneaker () {
             twoSnks.classList.remove('active');
         }
 
+        twoSneakers[0].classList.add('active');
+
     }
 }
