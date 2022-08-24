@@ -487,6 +487,10 @@ main .buy-now .inf-sneaker .free-shipping:hover p {
         display: block;
     }
 
+    main .buy-now .product .photos-sneaker .ul-imgs li img{
+        width: 100%;
+    }
+
     main .main-background .inf-product {
         width: 100%;
         gap: 20px;
