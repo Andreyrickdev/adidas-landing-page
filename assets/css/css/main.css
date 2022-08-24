@@ -430,6 +430,10 @@ main .buy-now .inf-sneaker .btns ul li .btn-1::before {
     left: 2px;
 }
 
+main .buy-now .inf-sneaker .btns ul li .btn-2 {
+    border: 1px solid #000;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
