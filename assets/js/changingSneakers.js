@@ -5,4 +5,5 @@ function changingSneaker () {
     const btnPurple = document.querySelector('.buttonPurple');      const sneakerPurple = document.querySelectorAll('.little-sneaker')[2];
 
     btnOrange.addEventListener('click', actionOrange);              sneakerOrange.addEventListener('click', actionOrange);
+    btnBlack.addEventListener('click', actionBlack);                
 }
