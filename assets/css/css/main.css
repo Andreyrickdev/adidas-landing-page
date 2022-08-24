@@ -589,6 +589,10 @@ main .buy-now .inf-sneaker .free-shipping:hover p {
         padding: 10px;
     }
 
+    main .buy-now .inf-sneaker .free-shipping {
+        width: 100%;
+    }
+
     main .main-background {
         grid-template-columns: initial;
     }
