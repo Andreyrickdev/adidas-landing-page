@@ -223,6 +223,10 @@ main .buy-now .product .photos-sneaker .background-button .showMoreOrLess {
     font-weight: bold;
 }
 
+main .buy-now .product .photos-sneaker .background-button .showMoreOrLess i {
+    transform: rotate(180deg);
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
