@@ -385,6 +385,10 @@ main .buy-now .inf-sneaker .btns ul{
     gap: 10px;
 }
 
+main .buy-now .inf-sneaker .btns ul li{
+    display: grid;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
