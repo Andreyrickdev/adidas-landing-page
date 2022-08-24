@@ -293,6 +293,11 @@ main .buy-now .inf-sneaker .estimates {
     align-items: center;
 }
 
+main .buy-now .inf-sneaker .estimates i {
+    font-size: 0.5rem;
+    margin-right: 5px;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
