@@ -348,6 +348,15 @@ main .buy-now .inf-sneaker .sizes nav ul{
     grid-template-columns: repeat(5, auto);
 }
 
+main .buy-now .inf-sneaker .sizes nav ul li{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    padding: 10px;
+    gap: 10px;
+    color: #767677;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
