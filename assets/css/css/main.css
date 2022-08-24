@@ -465,7 +465,7 @@ main .buy-now .inf-sneaker .free-shipping:hover p {
     }
 
     main .main-background {
-        grid-template-columns: 2fr auto 1fr;
+        grid-template-columns: 1fr auto 1fr;
     }
 
     main .main-background .inf-product {
