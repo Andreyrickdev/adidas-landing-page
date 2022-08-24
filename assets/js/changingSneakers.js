@@ -95,6 +95,8 @@ function changingSneaker () {
     }
 
     function actionBlack () {
-        
+
+        const circle = document.querySelector('.circle');
+
     }
 }
