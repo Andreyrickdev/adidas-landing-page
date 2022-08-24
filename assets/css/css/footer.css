@@ -8,3 +8,9 @@
     gap: 50px;
     margin-top: 40px;
 }
+
+.footer .onDesktop ul li{
+    margin-bottom: 10px;
+    font-size: 0.8125rem;
+    cursor: pointer;
+}
