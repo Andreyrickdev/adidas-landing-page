@@ -44,5 +44,9 @@
 }
 
 @media (max-width: 1016px) {
-    
+
+    .onMobile {
+        display: block;
+    }
+
 }
