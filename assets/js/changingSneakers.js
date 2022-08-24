@@ -12,5 +12,6 @@ function changingSneaker () {
 
         const circle = document.querySelector('.circle');
 
+        circle.classList.add('orangeCircle');
     }
 }
