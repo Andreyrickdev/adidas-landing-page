@@ -282,6 +282,11 @@ main .buy-now .inf-sneaker.atBottom {
     height: auto;
 }
 
+main .buy-now .inf-sneaker .estimates section{
+    display: flex;
+    align-items: center;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
