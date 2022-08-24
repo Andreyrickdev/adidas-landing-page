@@ -357,6 +357,10 @@ main .buy-now .inf-sneaker .sizes nav ul li{
     color: #767677;
 }
 
+main .buy-now .inf-sneaker .sizes nav ul li .line-through{
+    text-decoration: line-through;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
