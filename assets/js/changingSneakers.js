@@ -71,5 +71,9 @@ function changingSneaker () {
             img.classList.remove('active');
         }
 
+        for (img of imgs7) {
+            img.classList.remove('active');
+        }
+
     }
 }
