@@ -447,6 +447,11 @@ main .buy-now .inf-sneaker .btns ul .lookForAlternatives{
     grid-column: 1/-1;
 }
 
+main .buy-now .inf-sneaker .free-shipping {
+    display: flex;
+    width: 40ch;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
