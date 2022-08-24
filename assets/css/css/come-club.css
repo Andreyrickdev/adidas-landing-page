@@ -6,3 +6,9 @@
     align-items: center;
     gap: 60px;
 }
+
+.come-club h3 {
+    font-size: 1.875rem;
+    text-transform: uppercase;
+    width: 21ch;
+}
