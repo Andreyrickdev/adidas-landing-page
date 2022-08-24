@@ -14,3 +14,7 @@
     font-size: 0.8125rem;
     cursor: pointer;
 }
+
+.footer .onDesktop ul li:hover {
+    text-decoration: underline;
+}
