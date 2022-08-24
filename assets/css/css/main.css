@@ -246,6 +246,10 @@ main .buy-now .product .sneakers-models ul {
     gap: 10px;
 }
 
+main .buy-now .product .sneakers-models ul li {
+    cursor: pointer;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
