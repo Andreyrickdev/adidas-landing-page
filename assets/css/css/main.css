@@ -314,6 +314,11 @@ main .buy-now .inf-sneaker .name-price-model .price{
     font-weight: bold;
 }
 
+main .buy-now .inf-sneaker .price-installments {
+    display: grid;
+    gap: 10px;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
