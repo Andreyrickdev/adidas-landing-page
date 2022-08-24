@@ -108,5 +108,7 @@ function changingSneaker () {
         }
 
         const Blacksneakers = document.querySelector('.Blacksneakers');
+
+        Blacksneakers.classList.add('active');
     }
 }
