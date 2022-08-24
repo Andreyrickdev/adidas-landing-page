@@ -196,6 +196,13 @@ main .buy-now .product .photos-sneaker ul .hide.active {
     display: grid;
 }
 
+main .buy-now .product .photos-sneaker ul li img{
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
