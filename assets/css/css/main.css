@@ -394,6 +394,10 @@ main .buy-now .inf-sneaker .btns ul li button{
     cursor: pointer;
 }
 
+header .buy-now .inf-sneaker .btns .btn-add-on-cart {
+    position: relative;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
