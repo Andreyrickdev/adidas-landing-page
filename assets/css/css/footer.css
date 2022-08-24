@@ -18,3 +18,9 @@
 .footer .onDesktop ul li:hover {
     text-decoration: underline;
 }
+
+.footer .onMobile section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
