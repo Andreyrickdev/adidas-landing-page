@@ -231,6 +231,16 @@ main .buy-now .product .photos-sneaker .background-button .showMoreOrLess i.acti
     transform: rotate(0deg);
 }
 
+main .buy-now .product .sneakers-models {
+    margin-top: 40px;
+    position: sticky;
+    bottom: 0px;
+    background-color: #fff;
+    display: grid;
+    justify-content: center;
+    place-items: center;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
