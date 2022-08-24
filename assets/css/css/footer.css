@@ -31,3 +31,7 @@
     color: #fff;
     font-size: 0.75rem;
 }
+
+.footer .onMobile {
+    background-color: #363738;
+}
