@@ -24,3 +24,10 @@
     grid-template-columns: 1fr 1fr;
     gap: 40px;
 }
+
+.footer .onMobile section ul li {
+    padding: 10px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 0.75rem;
+}
