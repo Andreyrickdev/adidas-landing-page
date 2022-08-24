@@ -7,4 +7,10 @@ function changingSneaker () {
     btnOrange.addEventListener('click', actionOrange);              sneakerOrange.addEventListener('click', actionOrange);
     btnBlack.addEventListener('click', actionBlack);                sneakerBlack.addEventListener('click', actionBlack);
     btnPurple.addEventListener('click', actionPurple);              sneakerPurple.addEventListener('click', actionPurple);
+
+    function actionOrange () {
+
+        
+
+    }
 }
