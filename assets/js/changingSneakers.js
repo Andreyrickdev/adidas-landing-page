@@ -10,7 +10,7 @@ function changingSneaker () {
 
     function actionOrange () {
 
-        
+        const circle = document.querySelector('.circle');
 
     }
 }
