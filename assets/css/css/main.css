@@ -374,6 +374,11 @@ main .buy-now .inf-sneaker .sizeGuidelines{
     cursor: pointer;
 }
 
+main .buy-now .inf-sneaker .sizeGuidelines:hover{
+    background-color: #000;
+    color: #fff;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
