@@ -163,6 +163,11 @@ main .buy-now .product .photos-sneaker ul::-webkit-scrollbar {
     display: none;
 }
 
+main .buy-now .product .photos-sneaker ul.active {
+    height: 2880px;
+    overflow: auto;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
