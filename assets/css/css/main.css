@@ -256,6 +256,14 @@ main .buy-now .product .sneakers-models ul li.active::after {
     background-color: #000;
 }
 
+main .buy-now .product .sneakers-models ul li::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 3px;
+    background-color: #000;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
