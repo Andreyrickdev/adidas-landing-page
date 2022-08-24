@@ -120,5 +120,6 @@ function changingSneaker () {
         twoSneakers[0].classList.add('active');
 
         const ulImgs = document.querySelector('.ul-imgs');
+        const imgsLi = ulImgs.querySelectorAll('li');
     }
 }
