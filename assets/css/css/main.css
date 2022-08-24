@@ -366,6 +366,14 @@ main .buy-now .inf-sneaker .sizes nav ul li:hover{
     color: #fff;
 }
 
+main .buy-now .inf-sneaker .sizeGuidelines{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-self: start;
+    cursor: pointer;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
