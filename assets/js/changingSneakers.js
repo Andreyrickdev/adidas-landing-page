@@ -40,5 +40,6 @@ function changingSneaker () {
         const [pack1, pack2, pack3, pack4, pack5, pack6, pack7] = [imgsLi[0], imgsLi[1], imgsLi[2], imgsLi[3], imgsLi[4], imgsLi[5], imgsLi[6]];
 
         const imgs1 = pack1.querySelectorAll('.imgs');
+        const imgs2 = pack2.querySelectorAll('.imgs');
     }
 }
