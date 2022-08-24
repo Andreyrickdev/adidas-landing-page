@@ -93,4 +93,8 @@ function changingSneaker () {
         liInUl[0].classList.add('active');
 
     }
+
+    function actionBlack () {
+        
+    }
 }
