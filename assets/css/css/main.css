@@ -269,6 +269,15 @@ main .buy-now .product .sneakers-models ul li:hover::after {
     transition: 0.4s;
 }
 
+main .buy-now .inf-sneaker {
+    display: grid;
+    position: -webkit-sticky;
+    position: sticky;     
+    top: 0px;
+    gap: 20px;
+    height: 900px;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
