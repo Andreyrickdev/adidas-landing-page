@@ -203,6 +203,14 @@ main .buy-now .product .photos-sneaker ul li img{
     object-fit: cover;
 }
 
+main .buy-now .product .photos-sneaker .background-button {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    bottom: -20px;
+    justify-content: center;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
