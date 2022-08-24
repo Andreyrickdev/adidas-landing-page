@@ -15,5 +15,7 @@ function changingSneaker () {
         circle.classList.add('orangeCircle');
         circle.classList.remove('blackCircle');
         circle.classList.remove('purpleCircle');
+
+        const sneaker = document.querySelectorAll('.sneaker');
     }
 }
