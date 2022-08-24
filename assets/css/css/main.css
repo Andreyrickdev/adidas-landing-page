@@ -409,6 +409,17 @@ main .buy-now .inf-sneaker .btns ul li .btn-1:hover,  .buy-now .inf-sneaker .btn
     color: rgb(173, 173, 173);
 }
 
+main .buy-now .inf-sneaker .btns ul li .btn-1 {
+    text-transform: uppercase;
+    background-color: #000;
+    border: 1px solid #000;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: relative;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
