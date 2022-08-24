@@ -434,6 +434,15 @@ main .buy-now .inf-sneaker .btns ul li .btn-2 {
     border: 1px solid #000;
 }
 
+main .buy-now .inf-sneaker .btns ul li .btn-3 {
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: relative;
+    border: 1px solid #000;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
