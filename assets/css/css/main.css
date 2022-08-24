@@ -143,6 +143,10 @@ main .buy-now {                                                                 
     margin-top: 40px;
 }
 
+main .buy-now .product .photos-sneaker {
+    position: relative;
+}
+
 @media (max-width: 1350px) {
 
     main .main-background {
