@@ -203,5 +203,6 @@ function changingSneaker () {
             twoSnks.classList.remove('active');
         }
 
+        twoSneakers[2].classList.add('active');
     }
 }
