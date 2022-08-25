@@ -213,5 +213,6 @@ function changingSneaker () {
         const imgs1 = pack1.querySelectorAll('.imgs');
         const imgs2 = pack2.querySelectorAll('.imgs');
         const imgs3 = pack3.querySelectorAll('.imgs');
+        const imgs4 = pack4.querySelectorAll('.imgs');
     }
 }
