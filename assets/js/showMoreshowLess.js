@@ -19,5 +19,6 @@ function showMoreOrLess () {
         } else {
 
         }
+        
     });
 }
