@@ -217,5 +217,10 @@ function changingSneaker () {
         const imgs5 = pack5.querySelectorAll('.imgs');
         const imgs6 = pack6.querySelectorAll('.imgs');
         const imgs7 = pack7.querySelectorAll('.imgs');
+
+        for (img of imgs1) {
+            img.classList.remove('active');
+        }
+
     }
 }
