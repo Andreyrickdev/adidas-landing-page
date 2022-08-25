@@ -171,5 +171,10 @@ function changingSneaker () {
         const ulInSneakersModels = document.querySelector('.ul-in-sneakers-models');
 
         const liInUl = ulInSneakersModels.querySelectorAll('li');
+
+        for (li of liInUl) {
+            li.classList.remove('active');
+        }
+
     }
 }
