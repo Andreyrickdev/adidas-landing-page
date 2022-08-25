@@ -265,3 +265,5 @@ function changingSneaker () {
 
     }
 }
+
+changingSneaker();
