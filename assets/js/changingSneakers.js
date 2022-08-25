@@ -252,5 +252,6 @@ function changingSneaker () {
         imgs4[2].classList.add('active');
         imgs5[2].classList.add('active');
         imgs6[2].classList.add('active');
+        imgs7[2].classList.add('active');
     }
 }
