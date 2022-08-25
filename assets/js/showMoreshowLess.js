@@ -13,5 +13,8 @@ function showMoreOrLess () {
             i.classList.toggle('active');
         }
     
+        if (buttonShow.id == "value1") {
+            
+        }
     });
 }
