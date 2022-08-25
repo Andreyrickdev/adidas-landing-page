@@ -234,5 +234,9 @@ function changingSneaker () {
             img.classList.remove('active');
         }
 
+        for (img of imgs5) {
+            img.classList.remove('active');
+        }
+
     }
 }
