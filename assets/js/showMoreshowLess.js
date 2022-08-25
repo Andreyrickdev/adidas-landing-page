@@ -7,6 +7,7 @@ function showMoreOrLess () {
 
     buttonShow.addEventListener('click', () => {
 
+        ulSelected.classList.toggle('active');
         
     });
 }
