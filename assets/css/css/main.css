@@ -137,6 +137,13 @@ main .main-background .sneakers > .purpleCircle {
     background-color: #25244E;
 }
 
+main .boost-detail img {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 150px;
+}
+
 main .buy-now {                                                                                                                    /*esse*/
     display: grid;
     grid-template-columns: 3fr 1fr;
