@@ -195,5 +195,6 @@ function changingSneaker () {
 
         const Purplesneakers = document.querySelector('.Purplesneakers');
 
+        Purplesneakers.classList.add('active');
     }
 }
