@@ -193,5 +193,7 @@ function changingSneaker () {
             snks.classList.remove('active');
         }
 
+        const Purplesneakers = document.querySelector('.Purplesneakers');
+
     }
 }
