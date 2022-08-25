@@ -222,5 +222,9 @@ function changingSneaker () {
             img.classList.remove('active');
         }
 
+        for (img of imgs2) {
+            img.classList.remove('active');
+        }
+
     }
 }
