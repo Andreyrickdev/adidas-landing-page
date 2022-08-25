@@ -181,7 +181,7 @@ function changingSneaker () {
 
     function actionPurple () {
 
-        
+        const circle = document.querySelector('.circle');
 
     }
 }
