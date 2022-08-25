@@ -255,5 +255,6 @@ function changingSneaker () {
         imgs7[2].classList.add('active');
 
         const ulInSneakersModels = document.querySelector('.ul-in-sneakers-models');
+        const liInUl = ulInSneakersModels.querySelectorAll('li');
     }
 }
