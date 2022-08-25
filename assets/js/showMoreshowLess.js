@@ -8,6 +8,10 @@ function showMoreOrLess () {
     buttonShow.addEventListener('click', () => {
 
         ulSelected.classList.toggle('active');
-        
+
+        for (i of hide) {
+            i.classList.toggle('active');
+        }
+    
     });
 }
