@@ -178,4 +178,10 @@ function changingSneaker () {
 
         liInUl[1].classList.add('active');
     }
+
+    function actionPurple () {
+
+        
+
+    }
 }
