@@ -14,7 +14,7 @@ function showMoreOrLess () {
         }
     
         if (buttonShow.id == "value1") {
-            
+            buttonShow.id = "value2";
         }
     });
 }
