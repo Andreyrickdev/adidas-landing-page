@@ -253,5 +253,7 @@ function changingSneaker () {
         imgs5[2].classList.add('active');
         imgs6[2].classList.add('active');
         imgs7[2].classList.add('active');
+
+        const ulInSneakersModels = document.querySelector('.ul-in-sneakers-models');
     }
 }
