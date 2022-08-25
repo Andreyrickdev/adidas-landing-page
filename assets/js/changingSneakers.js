@@ -167,5 +167,7 @@ function changingSneaker () {
         imgs5[0].classList.add('active');
         imgs6[0].classList.add('active');
         imgs7[0].classList.add('active');
+
+        const ulInSneakersModels = document.querySelector('.ul-in-sneakers-models');
     }
 }
