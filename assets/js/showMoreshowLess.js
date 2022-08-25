@@ -18,6 +18,7 @@ function showMoreOrLess () {
             buttonShow.innerHTML = `Show less <i style="font-size: 16px;" class="fa-solid fa-angle-up active"></i>`;
         } else {
             buttonShow.id = "value1";
+            buttonShow.innerHTML = `Show more <i style="font-size: 16px;" class="fa-solid fa-angle-up"></i>`;
         }
 
     });
