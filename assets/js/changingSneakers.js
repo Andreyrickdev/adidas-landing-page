@@ -198,5 +198,10 @@ function changingSneaker () {
         Purplesneakers.classList.add('active');
 
         const twoSneakers = document.querySelectorAll('.two-sneakers');
+
+        for (twoSnks of twoSneakers) {
+            twoSnks.classList.remove('active');
+        }
+
     }
 }
