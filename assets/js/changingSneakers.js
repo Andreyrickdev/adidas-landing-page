@@ -261,5 +261,7 @@ function changingSneaker () {
             li.classList.remove('active');
         }
 
+        liInUl[2].classList.add('active');
+
     }
 }
