@@ -185,5 +185,6 @@ function changingSneaker () {
 
         circle.classList.add('purpleCircle');
         circle.classList.remove('blackCircle');
+        circle.classList.remove('orangeCircle');
     }
 }
