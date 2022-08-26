@@ -1,6 +1,5 @@
 header {
-    overflow-y: hidden;
-    overflow-x: hidden;
+    overflow: hidden;
     top: 0;
     left: 0;
     align-items: center;
@@ -182,8 +181,9 @@ header .close span svg {
 header .login-form {
     background-color: #fff;
     position: absolute;
-    right: 0px;
-    top: -120rem;
+    /*right: 0px;
+    top: -120rem;*/
+    right: -120rem;
     width: 414.60px;
     padding: 20px;
     display: grid;
@@ -193,7 +193,8 @@ header .login-form {
 }
 
 header .login-form.active {
-    top: 160px;
+    /*top: 160px;*/
+    right: 0;
 }
 
 header .login-form .close {
@@ -350,8 +351,10 @@ header .favorite-form {
     background-color: #fff;
     max-width: 500px;
     position: absolute;
-    right:20px;
-    top: -90rem;
+    /*right:20px;
+    top: -90rem;*/
+    top: 160px;
+    right: -120rem;
     padding: 20px;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
     background-color:#fff;
@@ -360,7 +363,8 @@ header .favorite-form {
 }
 
 header .favorite-form.active {
-    top: 160px;
+    /*top: 160px;*/
+    right: 20px;
 }
 
 header .favorite-form .wishlist {
@@ -457,15 +461,17 @@ header .shopping-form {
     text-transform: uppercase;
     position: absolute;
     display: grid;
-    right:20px;
+    /*right:20px;*/
+    /*top:-120rem;*/
+    right: -120rem;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
-    top:-120rem;
     transition: 0.5s;
     z-index: 999;
 }
 
 header .shopping-form.active {
-    top: 160px;
+    /*top: 160px;*/
+    right: 20px;
 }
 
 header .shopping-form .close {
@@ -776,6 +782,10 @@ header .shopping-form .item .info-item .item-quantity select {
     }
 
     header .favorite-form {
+        left: -120rem;
+    }
+
+    header .favorite-form.active {
         left: 0;
     }
 
@@ -831,8 +841,11 @@ header .shopping-form .item .info-item .item-quantity select {
         justify-content: center;
         place-self: center;
         padding: 0;
-        right: 0;
         width: 100%;
+    }
+
+    header .shopping-form.active {
+        right: 0;
     }
 
     header .shopping-form .close {
