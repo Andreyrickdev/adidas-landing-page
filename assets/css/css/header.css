@@ -133,6 +133,10 @@ header .first-menu .userAssetsAndSearch .assets .menu li {
     padding: 5px 18px;
 }
 
+header .first-menu .userAssetsAndSearch .assets .menu li button {
+    cursor: pointer;
+}
+
 header .first-menu .userAssetsAndSearch .assets .menu .hamburgerAndHeart .hamburger-li {
     display: none;
 }
