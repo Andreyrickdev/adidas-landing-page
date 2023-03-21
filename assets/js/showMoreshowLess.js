@@ -23,6 +23,12 @@ function showMoreOrLess () {
 
     });
 
+    window.addEventListener('resize', () => {
+        if(window.innerWidth <= 1350) {
+            ulSelected.classList.remove('active');
+        }
+    })
+
 }
 
 showMoreOrLess();
